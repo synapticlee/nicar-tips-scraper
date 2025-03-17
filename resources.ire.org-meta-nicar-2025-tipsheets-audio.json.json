@@ -1,0 +1,1420 @@
+{
+  "total": 102,
+  "updated": "March 17",
+  "sessions": [
+    {
+      "day": "Thursday",
+      "data": [
+        {
+          "session_title": "Coaching ChatGPT to help with coding and data tasks",
+          "speakers": "Charles Minshew, The Atlanta Journal-Constitution",
+          "description": "ChatGPT, widely misunderstood and in some cases misused, can be a powerful tool to improve efficiency in our day-to-day work. Give ChatGPT a few rows of publicly available data and ask it to write a data dictionary. We'll use ChatGPT to help write a public records request for us, have it help us make sense of data and we'll even use it to write a Python script to reshape unruly Excel data. The best part? You don't need to know Python to write this code.\nThis session is good for everyone. Attendees will need to bring their own laptop (no tablets)",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1hyVn_As3kJhKiGCKO983J0OpIjOqFPY-iMU5f5vC4U8/edit#slide=id.g2c2184cfeb8_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Critical datasets to know when covering K-12",
+          "speakers": "Becky Dernbach, Sahan Journal; Sharon Lurye, The Associated Press; Nadia Tamez-Robledo, EdSurge; Ann Thomas, retired analytics advisor",
+          "description": "Join this panel to learn the most important datasets, what to do if they disappear, how to approach K-12 data when you’re new to the beat, state-level data and story ideas.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250306-30405.pdf"
+            },
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/document/d/1DcqC8EM2v2iUC5kIwk7Irjx8Y8Sc1Kji6QYqAbqZzrk"
+            }
+          ]
+        },
+        {
+          "session_title": "Everything everywhere all at once: Data from around the world to report on global issues",
+          "speakers": "Helena Bengtsson, Gota Media; Irene Casado Sanchez, Big Local News; Eva Constantaras, Lighthouse Reports; Andy Lehren, The Center for Collaborative Investigative Journalism | CUNY JSchool; Bianca  Muniz, Agência Pública de Jornalismo Investigativo",
+          "description": "In an interconnected world, data is more accessible than ever—but finding and using global data comes with unique challenges. In this panel, reporters will explore strategies for locating reliable international datasets and navigating the obstacles that come with using them. From language barriers to currency conversions, inconsistent formats, and varying levels of data transparency, journalists must adapt to diverse contexts to uncover the story within the data. Panelists will share practical solutions for addressing these challenges, including best practices for working with multilingual datasets, standardizing metrics across borders, and verifying sources in regions with limited transparency. Additionally, the session will tackle the complex issue of obtaining documents and records in countries where public records laws are weak, inefficient, or nonexistent. Panelists will highlight creative approaches to accessing critical information, from building local partnerships to leveraging non-traditional sources.\nKey questions for discussion during the panel:\n- What are the most effective methods for identifying and accessing reliable global data sources?\n- What unique challenges do international datasets present—such as language barriers, currency discrepancies, or incompatible formats—and what strategies can help overcome them?\n- How can journalists access critical documents in countries where public records laws are weak, inefficient, or nonexistent?",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1ZTU4qLstd0cZn4DZwxskhGAsNaEKMdKh20xB850Sh3Q/edit#slide=id.g33cafabc205_2_210"
+            }
+          ]
+        },
+        {
+          "session_title": "First SvelteKit data app",
+          "speakers": "Tyler Machado, Independent journalist",
+          "description": "This session will demonstrate to attendees how to use SvelteKit (Svelte's UI framework) to build a simple data-driven web application. We will cover the basics of what makes Svelte and SvelteKit what they are, followed by demonstrations of how to organize and set up a mini-site with multiple pages, different ways you can load in data, and how to handle components (both LayerCake charts and regular ones).\nThis intermediate session is good for journalists with JavaScript experience.\nLaptops will be provided.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/tylermachado/nicar25-sveltekit-app"
+            }
+          ]
+        },
+        {
+          "session_title": "Python for data analysis",
+          "speakers": "Sandra Fish, Independent journalist",
+          "description": "In this session, you'll learn how to analyze data using the popular Python data analysis library pandas. You'll learn about the benefits of scripting your data projects and enough syntax to load, sort, filter and group a data set.\n\nThis class is good for: People who are comfortable working with data in spreadsheets or SQL and want to make the leap to programming -- no coding experience required. Laptops will be provided.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-intro-to-pandas"
+            }
+          ]
+        },
+        {
+          "session_title": "Analyze large datasets in Google Sheets via Google Cloud",
+          "speakers": "Tiff Fehr, The New York Times",
+          "description": "Connect large data sets to Google Sheets, which has UI patterns, querying tools and other affordances that more newsroom collaborators are comfortable with. \n\nThis session is good for: people comfortable with csv, cloud services, spreadsheets and some SQL familiarity. Attendees will need to bring their own laptop (no tablets) to participate in this class.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1KSuvk23sUVTqH6fpe367_M3W2LGAyJrMroqLZyMdILc/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Introduction to the command line (Macs)",
+          "speakers": "Geoffrey Hing, The Marshall Project",
+          "description": "Too often in data journalism we forget about the basics. And it doesn't get as basic as the command line. Even knowing a little will make your job easier. We will run through some simple commands, dive into working with spreadsheets and show you some handy tools he frequently uses at work.\n\nThis session is good for: People who feel intimidated by the command line on their computer, but want to explore the power of command line tools. Laptops will be provided.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ghing/nicar-2025-command-line"
+            }
+          ]
+        },
+        {
+          "session_title": "Using Python to scrape websites",
+          "speakers": "Allan James Vestal, Independent journalist",
+          "description": "This session will show you how to use the Python programming language to scrape data from simple websites.\n\nThis session is good for: People with some experience working with data. Experience with Python and/or HTML is a plus but not necessary. Laptops will be provided.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-python-scraping"
+            }
+          ]
+        },
+        {
+          "session_title": "Watching the weather with Github Actions",
+          "speakers": "John Keefe, The New York Times",
+          "description": "When severe weather is on its way, you'll want to know about it. Find out how to set up Slack alerts based on live U.S. National Weather Service data using Github Actions.\nThis session is good for journalists with some familiarity with git and GitHub. Attendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jkeefe/weather-newsrooms-nicar25"
+            }
+          ]
+        },
+        {
+          "session_title": "Bringing data journalism to the sports section",
+          "speakers": "Matt Waite, University of Nebraska; MaryJo Webster, Minnesota Star Tribune; Derek Willis, University of Maryland",
+          "description": "Sports is absolutely drowning in data and there is a large and hungry audience for sports content. Alongside that, there's a large and growing open-source sports analytics community that data journalists should be a part of. In this hands-on class, speakers will take you through examples of ways to use traditional data journalism tools like R and the Tidyverse to bring in up-to-the-moment sports data and do sophisticated analysis that you can immediately visualize to add context to seasons, leagues and sports.\nThis session is good for journalists with some R experience.\nLaptops will be provided.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/dwillis/nicar25-sports"
+            }
+          ]
+        },
+        {
+          "session_title": "Datawrapper hacks",
+          "speakers": "Taylor Johnston, CBS News; Grace Manthey, CBS News & Stations",
+          "description": "This session is for people who are comfortable with the basic settings on Datawrapper but looking for more ways to upscale their visualizations. Some basic HTML knowledge is preferred but not necessary.\n\nAttendees will need to bring their own laptop (no tablets) for the training and will need a free Datwrapper account to participate.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/12-MuVTfOhUf6mcmEIizlkdcdMg4eCTuWpzuOgAFbS8U"
+            }
+          ]
+        },
+        {
+          "session_title": "How to start investigating your college or university with data and records",
+          "speakers": "Mark Greenblatt, Arizona State University/Howard Center for Investigative Reporting; Deborah Nelson, University of Maryland; Jennifer Peebles, Atlanta Journal-Constitution",
+          "description": "Are you a student journalist who wishes they had a clearer road map to how to get started doing accountability journalism on your college campus? Let's talk about how to get started. A session for total beginners. Let's talk about open records laws, federally required disclosure like IRS Form 990 and the Clery Act, and what's available to you even if you're at a private institution.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1V9qcBAFMyCI7y8pJ0MvsV9ONxYPYEwpDTZc3lvsg1p4/edit#slide=id.g33bc2ad2e08_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Using Python to analyze map data",
+          "speakers": "Cody Winchester, IRE & NICAR",
+          "description": "Python has a lot of useful tools for scripting your GIS analysis. In this introductory workshop, we'll use a couple of popular mapping libraries to work through some common newsroom mapping tasks. (We'll focus on analysis more than visualization.)\n\nThis session is good for: People with a little bit of Python experience (we won't cover basic syntax). Knowledge of GIS concepts is helpful but not required. Laptops will be provided.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/cjwinchester/nicar25-python-gis"
+            }
+          ]
+        },
+        {
+          "session_title": "50 free government data sets in 50 minutes",
+          "speakers": "David Cuillier & Sydney Sims, Brechner FOI Project",
+          "description": "Why take time to argue with government records custodians when you can grab story-ripe data online for free? This session will run through 50 free datasets in 50 minutes – a twist on the 50 FOIA requests in 50 minutes. The classics, like dams, train wrecks, and bridge inspections, but also new ideas that the savvy data journalist may have missed. It will show where the datasets are located, what stories can be generated, and any caveats, with a handout providing all the relevant links to the data and IRE Resource Center tip sheets.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250306-30414.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Advanced Python mapping techniques",
+          "speakers": "Ari Sen, CBS News",
+          "description": "Roughly a quarter of Americans live more than 30 minutes away from a high-level trauma center. Peer-reviewed research suggests that this distance can literally make the difference between a patient living or dying of a traumatic injury. In this session I would explain how we used cutting-edge GIS tools in Python to map trauma care deserts in the United States for the IRE Award-winning series \"Bleeding Out.\" The methods we use for this project can be generalized for lots of journalistic applications, from reproductive healthcare to food deserts.\n\nThis session is good for those with experience using Python and Pandas.\nLaptops will be provided.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/as9934/nicar25_adv_map"
+            }
+          ]
+        },
+        {
+          "session_title": "Go big with GitHub Actions: Scale up your newsroom’s data pipelines *pre-registered attendees only",
+          "speakers": "Dana Chiueh, Minnesota Star Tribune; Iris Lee & Ben Welsh, Reuters",
+          "description": "Take this three-hour class to learn how journalists deploy massive data pipelines at zero cost using GitHub’s powerful Actions framework.\n\nYou will get hands-on experience creating an automated system that can collect, process and publish a gigantic dataset with ease.\n\nBen Welsh, Iris Lee and Dana Chiueh will teach you how to:\n\n- Schedule an automated task\n- Scrape and store data from a newsworthy source\n- Scale up to run hundreds of tasks in parallel\n- Publish a data dashboard to share your work\n- Extend GitHub’s free system to access gigantic amounts of computing power\n\nPreregistration is required and seating is limited. Students do not need to be programming experts, but they should have at least some experience editing code and working with GitHub. Don’t talk yourself out of attending. If you’re interested and have a good attitude, you are qualified to join.\nLaptops will be provided.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://palewi.re/docs/go-big-with-github-actions/"
+            }
+          ]
+        },
+        {
+          "session_title": "Have some fun with Spotify data",
+          "speakers": "Leila Darwiche, San Antonio Express-News",
+          "description": "Do you look for any opportunity to talk about music? Are you always listening to something while you write your stories? Or are you just looking to add a little fun to your day? We will take a look at a few data sources that are available online that might spur some ideas for the music data story of your dreams, specifically focusing on the Spotify API. We’ll take some time to play around with them, so please bring your own laptop.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1p-EGHDPhfE7v8vBKhgBitqjB4LYQM_HrjnTHc5KDZe4/edit#slide=id.g332eee33ed1_0_19"
+            }
+          ]
+        },
+        {
+          "session_title": "Passive scraping for social media",
+          "speakers": "Jonathan Soma, Columbia University",
+          "description": "Scraping complex, changing sites with anti-bot measures like TikTok and Twitter is an uphill battle, but there's often a secret solution: spy on the traffic between your browser and the server, capturing the relevant pieces! This session will take a step into the second tier of “undocumented APIs,” showing participants how to intercept their browser’s data transmissions to build spreadsheets – often with far more information than is displayed on the screen.\n\nWe’ll cover several automated, coding-friendly use cases, but participants won’t need any technical skills beyond using a web browser.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jsoma/nicar25-passive-scraping"
+            }
+          ]
+        },
+        {
+          "session_title": "Spatial analysis in R: 101",
+          "speakers": "Ryan Little, The Baltimore Banner; Shreya Vuttaluru, Tampa Bay Times",
+          "description": "Learn how to use spatial functions in R to level up your reporting. We’ll explore tools for mapping, spatial joins, buffering and calculating distance — all using a single package. We’ll center a story published by The Baltimore Banner on gun violence around schools to showcase an application of these functions and demonstrate best practices for basic geospatial analysis.\nThis session is good for beginner and intermediate journalists with some familiarity with R.\nLaptops will be provided.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/shreyavut/spatial-analysis-in-r"
+            }
+          ]
+        },
+        {
+          "session_title": "Spreading data wisdom through mentoring",
+          "speakers": "Sandra Fish, Independent journalist; Adrian Garcia, Financial Times Specialist; John Harden, The Washington Post; Caitlin Ostroff, The Wall Street Journal",
+          "description": "We’ve all have mentors, maybe just for that one breakfast, maybe for that one job transition, maybe for a lifetime. We’ll talk about how to find a mentor, how to set goals, how often to reach out, how to be a good mentor and how to be a good mentee. And why it’s sometimes important to look for help outside your workplace. Bring your questions, we'll leave plenty of time for Q&A.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/15SwvyaNP3JSsA4z38ZNyJVdjf9vga38RSdattKUeLPY/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Extracting data from documents with AI",
+          "speakers": "Rosmery Izaguirre & Sean McMinn, Politico; Jonathan Soma, Columbia University",
+          "description": "Come to this session to learn how to use AI to \"read\" documents like PDFs and Excel files. It's more than just feeding the documents in and asking for data. This session will go over techniques as well as common pitfalls and how to avoid them.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1wqjIlneLs6z1gBnSEwRFSSfPH9K65OH0mbLh0zOiTgY"
+            }
+          ]
+        },
+        {
+          "session_title": "Follow the money: How to use campaign finance data in your reporting",
+          "speakers": "Kelly Waldron, Mission Local",
+          "description": "This workshop will approach covering campaign finance as if we are writing our first story on the beat, using a dataset on donations to mayoral candidates in the San Francisco general election. We’ll go over the data structure, filing requirements and then delve into the dataset to run some basic analyses and workshop story ideas. We'll also share examples of stories that were published using the exact same data. You should come away from this workshop with a good idea of what kind of campaign finance data is available and how you can incorporate it in your reporting — no matter where you are reporting from. This session is good for all levels of experience.\nLaptops will be provided.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/kellywaldro/NICAR25-campaign-finance"
+            }
+          ]
+        },
+        {
+          "session_title": "Going deeper with Census microdata: IPUMS is your friend",
+          "speakers": "Sandhya Kambhampati, Los Angeles Times; Paul Overberg, The Wall Street Journal; David Van Riper, IPUMS; MaryJo Webster, Minnesota Star Tribune",
+          "description": "Census microdata allows you to look at demographic trends that are impossible to find in Census summary data. This session will introduce you to the various free IPUMS tools to work with microdata and give you examples of how journalists have used this data in stories.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1snA0oHf_9ZJZQfp3bn6CDT16mjr9MdeNYRwYnRc0VCc/edit?pli=1#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "PDF next steps: Extracting data using command-line and other tools",
+          "speakers": "Chad Day, The Associated Press",
+          "description": "This class seeks to help you free data stored in PDFs. Attendees will extract text from a computer-generated PDF using command-line tools, process image files with optical character recognition and set themselves up for working with PDFs in Python. The session will also cover how to assess a PDF to select the right tools to use to free its data.\n\nThis session is good for: People with experience using a command-line interface and who deal with frustrating PDFs. Knowledge of Python or R is a plus but not required. Laptops will be provided.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/chadday/nicar_ocr"
+            }
+          ]
+        },
+        {
+          "session_title": "Spatial analysis in R: 201",
+          "speakers": "Ryan Little, The Baltimore Banner; Shreya Vuttaluru, Tampa Bay Times",
+          "description": "Take your spatial skills up a notch by learning to use image-based data derived from satellite observations. In this session, you’ll discover how to navigate tricky filetypes like netCDF and TIF, all within the comfort of RStudio. Learn how to extract decades of real-time measurements from variables like ocean heat, temperature, land use, air pollution and more. By the end, you’ll have the tools to join satellite measurements with traditional shapefiles.\nThis session is good for journalists who are comfortable with the basics of R and Rstudio. Attending \"Spatial analysis in R: 101\" is recommended. Laptops will be provided.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/shreyavut/spatial-analysis-in-r"
+            }
+          ]
+        },
+        {
+          "session_title": "Using open-source intelligence (OSINT) in investigations",
+          "speakers": "Tristan Lee & Logan Williams, Bellingcat",
+          "description": "This session will show how journalists can begin incorporating open-source research methodologies in their investigations, with examples from real articles.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/e/2PACX-1vRhz2dhnqLXmxNif8HavcBc6X4zFwvXcWa6drGrcK3QJj0mz5LjQewRific-KQKvb06Hu9VAnFUkaur/pub"
+            }
+          ]
+        },
+        {
+          "session_title": "Which coding language to use and why",
+          "speakers": "Carla Astudillo, The Texas Tribune; Tazbia Fatima, Hearst; Nael Shiab, CBC News; Kai Teoh, The Dallas Morning News",
+          "description": "Journalists may use a variety of coding languages for data investigations or for news application development. Each project and each newsroom has a unique tech stack. You might be wondering: which ones should I try? Our panelists will discuss projects they’ve pursued with code, which languages they used, and why.",
+          "datetime": "2025-03-06T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1xSEKDPdrrFv8p9L--bqWHfvwxAxJgziayR0FGsMest4/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Beginner track: How to request data and documents: FOI",
+          "speakers": "Kate Martin, APM Reports; Andrew Pantazi, Freelance Editor; Tisha Thompson, ESPN",
+          "description": "Introduction to making successful requests for public data or documents.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1o7y2s5gnvpIi074dNZTPk3IDVmxn8sy3i33VNArdZuk/edit?usp=sharing"
+            }
+          ]
+        },
+        {
+          "session_title": "Developing an ethical AI policy for your newsroom",
+          "speakers": "Darla Cameron, The Texas Tribune; Silvia Dal Ben Furtado, University of Texas at Austin School of Journalism and Media; Andrew Ford, USA Today / Gannett; Josh Hinkle, KXAN; Cynthia Tu, Sahan Journal",
+          "description": "Join news leaders to discuss the why, when, and how to develop an AI policy for your newsroom.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1VbUDKEE4e54avNo8RKKUoywNo1oIz44SM2-rW0hrQdM/edit#slide=id.g331e8f58481_0_413"
+            }
+          ]
+        },
+        {
+          "session_title": "Extracting data from complex PDFs using pdfplumber",
+          "speakers": "Jeremy Singer-Vine, The New York Times",
+          "description": "Wonderful tools such as Tabula have made it easier to extract tabular data from PDFs. But what if your pile of PDFs is more complex than that? Maybe there are a few bits of info that you need to grab outside the tables, or maybe the information isn't tabular at all?\n\nIn this session, we'll use pdfplumber, an open-source Python library, to demonstrate some techniques. We'll also demystify some aspects of the PDF file format, which will come in handy no matter what tools you use.\n\nThis session would be good for: People with some prior experience using Python.\nLaptops will be provided.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jsvine/nicar-2025-pdfplumber-workshop.git"
+            }
+          ]
+        },
+        {
+          "session_title": "Making publishable graphics in R Studio",
+          "speakers": "Maureen Linke & Stephanie Stamm, The Wall Street Journal",
+          "description": "Explore different graphics types and styling you can do in R Studio and then export into Adobe Illustrator for publication.\nThis session is good for: beginners with some R Studio experience.\nLaptops will be provided.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/maureenlinke/nicar2025-rgraphics"
+            }
+          ]
+        },
+        {
+          "session_title": "Spatial analysis in R: 301",
+          "speakers": "Ryan Little, The Baltimore Banner; Shreya Vuttaluru, Tampa Bay Times",
+          "description": "Data that lacks a shared column for direct joins can often still be connected through maps. But common geographies like census tracts and precincts rarely align perfectly. Despite these challenges, it’s still possible to estimate how votes shifted across neighborhoods or calculate statistical relationships using Census data. This process is called interpolation — learn how to translate data from one map to another and bridge geographic gaps in their data analysis. This session is good for journalists who are comfortable with the basics of R and Rstudio. Attending \"Spatial analysis in R: 201\" is recommended. Laptops will be provided.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/shreyavut/spatial-analysis-in-r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "data": [
+        {
+          "session_title": "How economic development incentives impact public budgets",
+          "speakers": "Arlene Martinez & Jeremy Thompson, Good Jobs First",
+          "description": "Companies receive upwards of $95 billion in economic development subsidies per year. While those deals are often reported upon, what's less analyzed are the impacts of those tax breaks and other subsidies on budgets, and what, if anything, communities get in return. Using Subsidy Tracker and Tax Break Tracker help answer those questions. Learn how to use the databases and how reporters have used them in their reporting to show the impact of corporate giveaways. Subsidy Tracker lets users explore what companies are receiving incentives and where, and Tax Break Tracker shows users how much revenue governments give up in the name of economic development. This session would be especially useful for local and state government reporters, as well as those covering education (the public service that loses the most funding when incentives are given due to its dependence on property taxes).\nAttendees will need to bring their own laptop.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250307-30417.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "How to use CensusDis, the friendliest Python API for U.S. Census data",
+          "speakers": "Scott Pham, CBS News",
+          "description": "CensusDis is a simple Python package for accessing the US Census API. Unlike competing packages, it gives access to almost everything the Census Bureau produces, including American Community Survey, the Current Population Survey, the Supplemental Poverty Measure and so on. It even has methods for downloading geographic resources like Tiger Shapefiles. It has methods for quickly exploring which datasets and tables are available, so that you know what exists before you configure a whole script to try and download it. The greatest feature, however, is that it can download your census data and output a choropleth of any geography in a single function call. Learn how to make your work with the Census faster, more reliable and more enjoyable.\nThis session is good for journalists with some Python experience.\nLaptops will be provided.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/scottpham/NICAR25-CensusDIS-how-to"
+            }
+          ]
+        },
+        {
+          "session_title": "QGIS 1: Spatial analysis for beginners",
+          "speakers": "Daniel Wainwright & John Walton, BBC News",
+          "description": "Learn to how to make your own maps using free, open-source software called QGIS. This class will teach you how to get started importing and displaying geographic data. Not all datasets need to be mapped, but some do! We'll go over how to find publicly available data, prepare it for mapping, and join together different datasets.\n\nThis session is good for: Beginners looking to learn the basics of visualizing geographic data. Laptops will be provided.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/danwainwright/NICAR-2025-QGIS"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://paper.dropbox.com/doc/QGIS-1-2025-Spatial-analysis-for-beginners-7ZKyE08NG7cupXaNPkyOR"
+            }
+          ]
+        },
+        {
+          "session_title": "R 1: Intro to R and RStudio",
+          "speakers": "Olga Pierce, The Trace",
+          "description": "Jump into data analysis with R, the powerful open-source programming language. In this class we’ll cover R fundamentals and learn our way around the RStudio interface for using R.\nThis session is good for: People with a basic understanding of data analysis who are ready to go beyond spreadsheets. Laptops will be provided.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-R123"
+            }
+          ]
+        },
+        {
+          "session_title": "Reporting on America's prison and jail death crisis",
+          "speakers": "Ethan Corey, The Appeal; A.J. Lagoe, KARE-TV",
+          "description": "It’s been a decade since Congress passed the Deaths in Custody Reporting Act, but the federal government still doesn’t know how many people die in jails or prisons or during arrests. Even worse, it has since told the inspector general that it has “no plans” of releasing the data it has already collected and is currently battling with USA Today and the Appeal in separate lawsuits, each seeking the data that the federal government has collected under DCRA.\n\nBut where do you start now? The lack of direction from the federal government means that each state handles this data differently. Different agencies collect different pieces of the data, and you’ll have to string it together yourself. In this panel, reporters who’ve done the hard work of piecing deaths in custody data together will walk you through how you can build your own database to hold jails, prisons and police agencies accountable.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250307-30401.pdf"
+            },
+            {
+              "label": "Tipsheet (2)",
+              "url": "https://resources.ire.org/tipsheets/20250307-30435.pdf"
+            },
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1K6qNdctYGYZtd2tsk4efczq6tGIg-cjKcG4lZf2IPKM/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Scraping without programming",
+          "speakers": "Samantha Sunne, Independent journalist",
+          "description": "Yes, you can scrape data without using code -- in fact, all you need is Google Sheets! We'll be using Excel-type formulas (don't worry if you don't know what those are, either) to make simple scrapers that automatically pull data into Google Sheets. It’s the best way to get around clunky websites and unhelpful PIOs!\n\nThis session is good for: Beginners who want to start using data for their stories. Attendees will need to bring their own laptop (no tablets) for the training and must have a Google account.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1mPCXxmyEhBGRlwaLQOTZ6B8uXjKHzBDL_QLp6bw09hk/edit#slide=id.g215c906a55d_0_4"
+            }
+          ]
+        },
+        {
+          "session_title": "Tidycensus will convince you to learn R",
+          "speakers": "Andrew Ba Tran, The Washington Post",
+          "description": "Tired of dealing with tabs, weird variable names, and disappearing leading zeros with Census data? Learn how to use Tidycensus, a well-designed R package that pulls data from the Census API and structures it in a logical, tidy way, which makes it easier for you to join with other data and analyze.\nThis session is good for: beginners and journalists with some R experience. Laptops will be provided.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/r-journalism/nicar-2025-tidycensus/"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250307-30429.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://nicar.r-journalism.com/2025/"
+            }
+          ]
+        },
+        {
+          "session_title": "Using AI tools in the newsroom *pre-registered attendees only",
+          "speakers": "Jonathan Soma, Columbia University",
+          "description": "Move beyond the chatbots and learn to leverage more advanced AI techniques. We'll cover what possibilities exist for AI across text, audio, images and video, including extracting structured data from messy documents, transcribing local government meetings, building proof-of-concept tools to share with coworkers, avoiding cloud-based services like OpenAI and Anthropic, and staying up-to-date with progress in the field.\n\nYou’ll get the most out of the session with a working knowledge of Python, but we’ll also cover non-coding options when they exist. Participants will leave confident about discussing, prototyping, and evaluating AI tools in their newsroom, and won’t giggle (so much) when they hear the phrase “Hugging Face.”\nLaptops will be provided.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jsoma/nicar25-ai-newsroom"
+            }
+          ]
+        },
+        {
+          "session_title": "What's new in the world of LLMs",
+          "speakers": "Simon Willison, Datasette",
+          "description": "ChatGPT, Claude, GPT-4o, GPT-4.5, o1, o3, Gemini, Llama, DeepSeek, Mistral—the world of large language models shows no sign of slowing down. I've been tracking this space closely over the past two years, and in this session, I'll break down the highlights and key trends.\n\nThese systems are weird and unintuitive, but they also keep getting cheaper and more capable—including laptop-compatible models. I'll avoid the science fiction hypotheticals and focus on what works and what doesn't with the latest generation of available models.\n\nAt the end of December, I wrote about Things we learned about LLMs in 2024. A whole lot has happened since then!",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://simonwillison.net/2025/Mar/8/nicar-llms/"
+            }
+          ]
+        },
+        {
+          "session_title": "Custom dataviz with JavaScript 101",
+          "speakers": "Jovi Dai, San Jose Mercury News & East Bay Times",
+          "description": "Interested in building data visualizations for the web? This session will introduce you to charts made with HTML, CSS, and JavaScript, helping you understand how various components combine to create a complete visualization displayed in your browser by coding.\nThis session is good for journalists who are new to HTML, CSS, and JavaScript. Attendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/document/d/1ggpmyDQbF6b2XJFRpMPncGD95Tlef-l-cISSwd97fTw/edit?tab=t.0#heading=h.nf9g1rxo5q4f"
+            }
+          ]
+        },
+        {
+          "session_title": "Extracting data from the worst PDFs on the planet",
+          "speakers": "Derek Willis, University of Maryland",
+          "description": "Some PDFs defy conventional attempts at parsing (and logic). We’ll walk through a few ways to tackle layout issues, image PDFs and more. Bring your worst and we’ll try them, too.\n\nThis session would be good for those who aren’t super technical but are willing to experiment with new tools. Laptops will be provided.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/dwillis/nicar25-pdfs"
+            }
+          ]
+        },
+        {
+          "session_title": "How to crowdsource data for your next big story",
+          "speakers": "Asia Fields, ProPublica; Jeremy Merrill, The Washington Post; Leon Yin, Bloomberg News",
+          "description": "What do you do when you're reporting a story and need the public to give you information? You crowdsource! Come to this session to hear journalists talk about crowdsourcing projects they've worked on and discuss lessons and limitations for this data collection strategy.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1zasP3ZfeqOnp0SCBGWCwcbQpc9xej_1d8PecO_6u6zI/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Public records for social justice: Uncovering inequity in your community through FOI",
+          "speakers": "José Ignacio Castañeda, Spotlight Delaware; David Cuillier & Sydney Sims, Brechner FOI Project; Gunita Singh, Reporters Committee for Freedom of the Press",
+          "description": "This practical workshop will lay out public records to help attendees examine injustice in their communities, and how to acquire those records. From police abuse, to red lining, to census, to Title IX, this session will provide a list of records to request to expose inequities and make the world a little better. Walk away with a list of dozens of records that you can request in your community to expose racial injustice. Learn strategies and techniques for acquiring these records when government custodians would rather you not. Get tips for working with marginalized communities to interpret the records with context and sensitivity.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250307-30392.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "QGIS 2: Analyzing geographic data",
+          "speakers": "Daniel Wainwright & John Walton, BBC News",
+          "description": "Build on your existing knowledge of QGIS and learn how to explore, manipulate and analyze geographic datasets to gain new insights. \n\nThis session is good for: Those who attended the QGIS I workshop or already know the basics of visualizing geographic data in QGIS. Laptops will be provided.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/danwainwright/NICAR-2025-QGIS"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://paper.dropbox.com/doc/QGIS-2-2025-Analyzing-geographic-data-raEF3q3IuE7g3botucy9s"
+            }
+          ]
+        },
+        {
+          "session_title": "R 2: Data analysis and plotting",
+          "speakers": "Sarah Ryley, Columbia University",
+          "description": "We'll use the tidyverse packages dplyr and ggplot2, learning how to sort, filter, group, summarize, join, and visualize to identify trends in your data. If you want to combine SQL-like analysis and charting in a single pipeline, this session is for you.\nThis session is good for: People who have worked with data operations in SQL or Excel and would like to do the same in R and have some experience working with RStudio. Laptops will be provided.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/sarahryley/R2_Workshop"
+            }
+          ]
+        },
+        {
+          "session_title": "The chaos in college sports: What all students should know",
+          "speakers": "Peyton Barish, Knight Commission on Intercollegiate Athletics; Josh Fine & Jodi Upton, Syracuse University; Paula Lavigne, ESPN",
+          "description": "Do you pay tuition? Interested in sports? Regardless of your devotion to your school’s team, the amateur athletics model that has ruled for decades is crashing down, thanks to the recent House settlement. And students may pay part of that price. Most Division I schools are expected to start paying athletes up to $20 million a year (total), but the settlement is wreaking havoc in Athletics departments trying to get ready for implementation July 1. Whether it’s Title IX equity, fundraising challenges, student fee increases, student-athletes losing positions on teams…there are dozens of stories to cover on campus in this new world of college athletics. And all that before the new administration makes changes. We’ll give you details on the settlement arrangement and its expected impact on NIL and other issues, plus hands-on help on how to track the documents and data to cover what’s happening at your school.\n\nThis panel will be immediately followed by a networking reception for those who attend the panel.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1cDhq4hXecSZjT-h0qH58ZSeqbMBbFvFT/edit#slide=id.g33cec52d90f_0_10"
+            }
+          ]
+        },
+        {
+          "session_title": "The data you need to report on DOGE",
+          "speakers": "Jessie Blaeser, Politico",
+          "description": "The newly established Department of Government Efficiency has rapidly begun dismantling spending programs across the federal government. In this hands-on workshop, we’ll show you how to investigate the cuts using federal spending records on USA Spending and the federal procurement data system.\n\nWe will break down the specific data resources any reporter needs to follow the money—whether they are interested in funds from a specific federal department, funds going to a specific county, or even funds meant to achieve a specific purpose. We will show you what is knowable, how to know it, and how to fact-check it. We will also walk through what is not knowable and what should always be confirmed with federal agencies before going to print.\n\nThis session is best for reporters with at least basic Python knowledge, though it is not required. Laptops will be provided.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jessieblaeser/nicar_2025_infrastructure/tree/main"
+            }
+          ]
+        },
+        {
+          "session_title": "AI starter pack: Python",
+          "speakers": "Brandon Roberts, ProPublica",
+          "description": "Wondering how to leverage Python for common newsroom AI tasks? In this session, you'll code your way through an example project and get a crash course on the libraries, techniques and learning resources available for Python users who want to `pip install` their first AI project.\n\nThis session is good for people who feel comfortable writing Python. Laptops will be provided.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/brandonrobertz/nicar2025-ai-py-crash-course"
+            }
+          ]
+        },
+        {
+          "session_title": "Data reporting for smaller newsrooms",
+          "speakers": "Cody Lillich, KTVK/KPHO-TV; Kate Martin, APM Reports; Justin Myers, Chicago Public Media; Junyao Yang, Mission Local",
+          "description": "If you're part of a small data team—or you are the data team—this session will cover practical ways to weave data into your beat, balance quick-turn stories with deeper investigations, and make the most of limited resources. Whether you're wrangling spreadsheets solo or collaborating with a small team, we’ll share tips, tools, and strategies to help you maximize your impact.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/16xxPQ5HSaFjEvYcp2pRq4uRkd3kjxulDltMB6LP6QLw/edit#slide=id.g33a4236759f_0_134"
+            }
+          ]
+        },
+        {
+          "session_title": "Investigating who's behind that website",
+          "speakers": "Pri Bengani, Bloomberg; Jon Keegan, Sherwood News",
+          "description": "Reporting online today, journalists must battle with astroturf campaigns, fake news sites and sketchy shell companies to find out who is behind the story. Usually it leads to a frustratingly common question: Who is behind this website?\n\nUsing a range of tools (free and otherwise), we walk you through how to investigate the provenance and ownership of websites: how can you identify the scope and scale of the network it belongs to — if any? Who’s behind the site, now and in the past? Who are the main actors promoting this website? Where else does this site crop up?\n\nWhile it is not always possible to fully unmask the owner of a site, using a thorough checklist of tools and techniques that we have used in real-world investigations, we can help you make sure to reveal as much as possible about a website, and potentially uncover important clues.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jonkeegan/behind-this-website"
+            }
+          ]
+        },
+        {
+          "session_title": "R 3: Gathering and cleaning data",
+          "speakers": "Jasmine Han, Informa TechTarget (Industry Dive)",
+          "description": "Learn how to import a wide variety of files in R including spreadsheets, files on the web and HTML tables, and transform the results into usable data. This session will also focus on how to clean and structure the data you've gathered in preparation for analysis using tidyverse packages.\nThis session is good for: People who have some experience using R and the Tidyverse. Laptops will be provided.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-R123"
+            }
+          ]
+        },
+        {
+          "session_title": "dRy - don’t repeat yourself, in R",
+          "speakers": "Ella Barnes & Karina Kumar & Christian McDonald, University of Texas at Austin",
+          "description": "You may have heard of the DRY principle in coding: don’t repeat yourself. But how do you actually do it? Join us as we walk you through iteration techniques in R to make your data analysis more efficient including how to import multiple files at once, creating unique functions and generating parameterized reports. \n\nThis session is good for: basic R users who want to ramp up their data analysis skills. Laptops will be provided.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/utdata/dRy"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://utdata.github.io/dRy/"
+            }
+          ]
+        },
+        {
+          "session_title": "AI starter pack: JavaScript",
+          "speakers": "Alex Garcia, Self-employed",
+          "description": "Wondering how to leverage JavaScript for common newsroom AI tasks? In this session, you'll code your way through an example project and get a crash course on the libraries, techniques and learning resources available for JavaScript users who want to `npm init` their first AI project.\n\nThis session is good for people who feel comfortable writing JavaScript. Laptops will be provided.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/asg017/nicar25-ai-starter-js"
+            }
+          ]
+        },
+        {
+          "session_title": "Analyzing images and videos with AI",
+          "speakers": "Jonathan Soma, Columbia University",
+          "description": "Learn how AI can sort through images and video to help you wrangle footage from protests and riots, analyze trends on TikTok, keep a (remote) eye on your local school board meetings, measure the effects of congestion pricing, and a hundred other tidbits for when the cameras might be rolling.\n\nWith a little Python and a dash of foundational knowledge, this session will tackle downloading videos, building and evaluating transcripts, splitting scenes, categorizing images, and detecting/counting/tracking objects. We'll work from real-life examples pulled from newsrooms like Bloomberg and the NYT. Participants will get the most out of this session if they have a working knowledge of Python.\nLaptops will be provided.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/jsoma/nicar25-ai-images-video"
+            }
+          ]
+        },
+        {
+          "session_title": "Beginner track: Making your data story ironclad",
+          "speakers": "Sandhya Kambhampati, Los Angeles Times; Liz Lucas, University of Missouri School of Journalism; Teghan Simonton, Tampa Bay Times",
+          "description": "Using data in your storytelling doesn't have to feel like running with scissors. Learn the best practices to make sure your stories and data aren't wrong.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1zcJNzEt6zOcYtNXPQbMy1EJb_ntisqco_XzZi33k0mw/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "De-mystifying cryptocurrency data: How to find stories on ransoms, scams and betting markets",
+          "speakers": "Jeremy Merrill, The Washington Post; Caitlin Ostroff, The Wall Street Journal",
+          "description": "Trump is back, and he's bringing crypto with him. With crypto’s rally comes a new boom of scams and ransoms. Two experienced data journalists share stories, tips and techniques from years of reporting on crypto's underbelly: ransoms, sanctions violations, romance scams and betting markets using blockchain and other cryptocurrency data.\nThis session is good for: all levels.\nAttendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1tbeIk_Ge8x8af6_iuRTqO_oaaU8nHHmM/edit?usp=sharing&ouid=108346428552349312495&rtpof=true&sd=true"
+            }
+          ]
+        },
+        {
+          "session_title": "Do you really need a map? How to make the most of your data viz",
+          "speakers": "Emily Hopkins, Mirror Indy; Emilia Ruzicka, University of Virginia; Jake Steinberg, Minnesota Star Tribune",
+          "description": "This is a panel for folks interested in data viz but who don't have a design background. It can be tempting to throw data into a variety of forms that end up not making sense to the readers (and can sometimes amount to journalistic malpractice!). Panelists will go through their approach to simple data viz and feature some go-to tools.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1ufMp2LJ3iHE7Oc0ZIGmjPkbgz2FsEZKsxfyTb1CDkz4/edit#slide=id.g332961f0d21_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Finding the story: Wildfire data",
+          "speakers": "Taylor Johnston, CBS News; Grace Manthey, CBS News & Stations",
+          "description": "Using data from the National Interagency Fire Center, we’ll demonstrate how to clean it using R and create a basic interactive map with MapLibre, an open-source mapping library. This session is good for journalists with basic knowledge of R and HTML/CSS/Javascript.\nLaptops will be provided.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/cbs-news-data/wildfire-tracker_nicar25/"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1-8swkRzyUEjXWTp-OENLI3KlidZCWOBbNoMxNkrFPc4/edit?tab=t.0#heading=h.unipdynrl8do"
+            }
+          ]
+        },
+        {
+          "session_title": "First Athena Query: How to analyze hundreds of millions of records in seconds with Amazon Web Services and SQL",
+          "speakers": "Katlyn Alo, The Washington Post; Ben Welsh, Reuters",
+          "description": "We’ve all been there. Excel can’t hang. Your dataframe locks up. And that damn SQL query has been running for two days now. There’s no way around it. This database is just too big for your laptop to handle. \n\nYou don’t want to give up, but we all know what will happen if you ask your boss for a new computer.\n\nAttend this rapid-fire session to see the solution: Amazon Athena. Katlyn Alo and Ben Welsh will show you how newsroom nerds use this powerful tool to rip through millions of records with ease. We’ll demonstrate every step in the process and prepare you to slay any dataset.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://palewi.re/docs/first-athena-query/"
+            }
+          ]
+        },
+        {
+          "session_title": "Using data and docs to fact-check immigration rhetoric",
+          "speakers": "Diana Fuentes, IRE & NICAR; Renee Griffin, Reporters Committee for Freedom of the Press; Zach Mider, Bloomberg News; Wendy Wei, Investigative Project on Race and Equity",
+          "description": "We often hear that undocumented people don't show up in many official data sources, but how can journalists looking to cover these improtant stories still equip themselves with important information that can level up thier reporting? Come to this session to find learn what data and docs exist to help you do important, thorough work that centers immigrants. \n\nThis session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250307-30402.pdf"
+            },
+            {
+              "label": "Tipsheet (2)",
+              "url": "https://resources.ire.org/tipsheets/20250307-30403.pdf"
+            },
+            {
+              "label": "Tipsheet (3)",
+              "url": "https://resources.ire.org/tipsheets/20250307-30404.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Web scraping with Python *pre-registered attendees only",
+          "speakers": "Cody Winchester, IRE & NICAR",
+          "description": "If you need data that's trapped on a website, writing some code to scrape the page could be your solution. This entry-level class will show you how to use the Python programming language to harvest data from a website into a data file. We'll introduce you to the command line and code notebookes and show you how to fetch and parse content from the web using Python.\n\nPreregistration is required and seating is limited. Laptops will be provided.\n\nWorkshop prerequisites: This class is programming for beginners. Some basic familiarity with Python and HTML is helpful but not required.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/cjwinchester/nicar25-python-scraping"
+            }
+          ]
+        },
+        {
+          "session_title": "AI starter pack: R",
+          "speakers": "Matt Waite, University of Nebraska",
+          "description": "Learn how to interact with AI via API using R for data journalism. In this hands on, we'll use R and Google Gemini's free tier to create short descriptions of data to be used in graphics. In short: AI-powered pop-up boxes. This session is good for beginner and intermediate journalists with some familiarity with R.\nLaptops will be provided.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet (1)",
+              "url": "https://mattwaite.notion.site/Installations-AI-Starter-Pack-for-R-19ec2f8b400880289fbceed6abf200d9"
+            },
+            {
+              "label": "Tipsheet (2)",
+              "url": "https://mattwaite.github.io/posts/r-llm-starter-pack/"
+            }
+          ]
+        },
+        {
+          "session_title": "Beginner track: Creating meatier stories: Sourcing, documents and other tools to start investigative reporting",
+          "speakers": "Cindy Galli, ABC News; Terri Langford, The Texas Tribune ; Paula Lavigne, ESPN; Aaron Mendelson, The Trace",
+          "description": "Best strategies for taking daily reporting to the next step.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250307-30416.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Finding needles in haystacks with fuzzy matching",
+          "speakers": "Max Harlow, Bloomberg News",
+          "description": "Fuzzy matching is a process for linking up records that are similar but not quite the same. It is often an important part of data-driven investigations as a way to identify connections between public figures, key people and companies that are relevant to a story.\n\nMax Harlow, who developed the CSV Match command line tool, will cover how fuzzy matching typically fits into the investigative process, with story examples, as well as show you how to perform different types of fuzzy match on some real datasets, including the pros and cons of each.\nThis session is good for: intermediate participants with some data experience. \n\nLaptops will be provided.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1hK0wmBRbnpenbVKgd7Fd97dxWi_q3Wkps10ZFT-fC14/edit#slide=id.g52423af19d_0_53"
+            }
+          ]
+        },
+        {
+          "session_title": "How to approach an investigative data question: How many rats are in the Rainforest Cafe?",
+          "speakers": "Adiel Kaplan, Columbia Journalism School; Veronica Penney, Science; Emily Zentner, The California Newsroom",
+          "description": "Join us on a wild safari as we transform the quirky question, \"How many rats are in the Rainforest Cafe?\" into an adventure in logical thinking and strategic planning for data-based investigative journalism. We will journey through a hypothetical investigation into cleanliness at the Rainforest Cafe, breaking down the steps needed to tackle reporting questions on deadline with documents and data and showing how to expand from a seemingly simple query to a broader, impactful investigation. This will be a lively, interactive panel, ideally suited to early career journalists, or anyone else seeking to get comfortable with the process of approaching a story from an investigative mindset. By the end of the session, participants will leave equipped to craft an investigative data story from scratch — even starting from the most unexpected or whimsical question.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1zGszvGxY2bT-1sdfwk9UYuPUbmSleVp0_hDrgwXnIkU/edit?tab=t.0#heading=h.wilfgiin65rp"
+            }
+          ]
+        },
+        {
+          "session_title": "The 411 on 311: How to use calls-for-service data in your daily reporting",
+          "speakers": "Janelle O'Dea & Casey  Toner, Illinois Answers Project",
+          "description": "311 data, or citizen complaint data, can help you feed the beast while feeding into investigations. In this session, we’ll do an example analysis using Python in a Google Co-Lab.\n\nThis session is good for: People comfortable with Python and Jupyter notebooks. Taking or having taken \"introduction to Python for data analysis\" or \"first Python notebook\" is strongly recommended.\n\nLaptops will be provided. Participants will need to log in to a Google account for the class.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1KcYAlzFbT96QG0KyWmjh5Fg2xnNnU3brDSbDAXZd0tE/edit?tab=t.0#heading=h.k48rxx8ztd4s"
+            },
+            {
+              "label": "Google Drive folder",
+              "url": "https://drive.google.com/drive/folders/1ShSu6LTVn78MLMAQLR9Rh-PQk7aKHeff"
+            }
+          ]
+        },
+        {
+          "session_title": "Unlocking interactive maps for newsrooms",
+          "speakers": "Brandon Liu, Protomaps",
+          "description": "Newsrooms need interactive maps, but the flexibility, cost and longevity of third party APIs are common obstacles. This session walks through how to build your own in-house mapping stack using the Protomaps toolset. We'll cover data preparation with Minneapolis open data, generating PMTiles vector tile archives, acquiring OpenStreetMap basemaps, and styling with MapLibre in the browser. We'll also explain how to deploy this with only S3 object storage - no servers required - and compare trade-offs with other mapping solutions.\n\nThis sesion is good for: Those familiar with JavaScript, Python and front-end development. Laptops will be provided.",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/bdon/NICAR25-InteractiveMaps"
+            },
+            {
+              "label": "Slides",
+              "url": "https://r2-public.protomaps.com/NICAR25.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "data": [
+        {
+          "session_title": "Beginner track: Tools to save you time",
+          "speakers": "Pooja Dantewadia, Realtor.com; Tyler Dukes, McClatchy Media; Cynthia Tu, Sahan Journal",
+          "description": "A review of tools and shortcuts that can help you with documents, data, organizing your work, etc., such as PDF converters, DocumentCloud, Wayback Machine, Pinpoint, Tabula, OpenRefine.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1MgtRi-mvvpf99a8qz6kpqLDefvleSooGwmi010Ig1Mk/edit#slide=id.g332473bd870_0_223"
+            }
+          ]
+        },
+        {
+          "session_title": "Building your own Chatbot to find public records",
+          "speakers": "Charles Minshew, The Atlanta Journal-Constitution",
+          "description": "ChatGPT is a useful tool, if you use it correctly. But, what if you could build your own GPT? And what if you could limit it to search and learn from only the sources you direct it to? We'll demo how you can use your state's open record laws, retention policies, and state websites to search for important public records.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/18Og30Z9sdO6QbvSWukKi8ieCC0aiu4btH73Q8BCCCs0/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Debunking sports myths with data",
+          "speakers": "Norm Lewis, University of Florida",
+          "description": "Defense is more important than offense. Golf tournaments are won on the green. Great players have the hot hand. To win, you must reduce turnovers. \n\nWe'll learn how to debunk these and other common cliches with basic spreadsheet skills and a few easy-to-learn statistics.\nThis session is good for all levels. Attendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Data",
+              "url": "https://resources.ire.org/tipsheets/20250308-30397.zip"
+            }
+          ]
+        },
+        {
+          "session_title": "Evolving threats to journalists' safety – digital, physical and legal",
+          "speakers": "Ben Camacho, The Southlander; Olivia Martin, Freedom of the Press Foundation; Stephanie Sugars, U.S. Press Freedom Tracker; Leita Walker, Ballard Spahr LLP",
+          "description": "From cyberattacks that disrupt print and digital publishing to criminal and civil complaints for routine newsgathering, journalists and newsrooms today face myriad threats. Hear from panelists on how to navigate legal proceedings and keep yourself, sources and documents safe.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1Wq_a3btNp4dXdHx8O4EnOehJa_A9OU3AHEX4zvBoiz0/edit?tab=t.0#heading=h.um9x6d3dxtq0"
+            }
+          ]
+        },
+        {
+          "session_title": "Finding narratives in a pile of documents",
+          "speakers": "Rob Wells, Philip Merrill College of Journalism, University of Maryland",
+          "description": "This hands-on session will show how to dig through a large batch of files and find common themes and narratives. We will use R and the tidytext package to explore two-word pairs, sentiment analysis and then the quanteda package to examine keywords in context.\nThis session is good for journalists with some R experience. Laptops will be provided!",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/profrobwells/Guest_Lectures/tree/master/Text_Analysis"
+            }
+          ]
+        },
+        {
+          "session_title": "Fun with shapes: Scripted mapping in R or Python *pre-registered attendees only",
+          "speakers": "Allie Kanik, Houston Chronicle / San Antonio Express-News; Ryan Little, The Baltimore Banner; Cam Rodriguez, The New York Times",
+          "description": "Let's face it, QGIS is the Excel of geospatial analysis. Sure, doing simple mapping in it and ArcGIS is a blast, but executing complex, reproducible joins and measurements can be a real drag. Taking a more scripted approach is way less of a buzzkill, especially when you need to revisit your earlier work or share with others.\n\nWhether you choose R or Python, follow along from mapping basics to more complex techniques that will make your next geospatial analysis a walk in the park. Cut loose, write some replicable code and have fun with shapes!\n\nPreregistration is required and seating is limited. To get the most out of this session, you should have a working knowledge of both GIS/mapping techniques and some experience with either Python or R. Laptops will be provided.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/akanik/nicar25-scripted-mapping"
+            }
+          ]
+        },
+        {
+          "session_title": "How to investigate special-interest influence on your Congressional delegation",
+          "speakers": "Haiyi Bi & Maggie Mulvihill & Phil Randazzo, Boston University; Derek Willis, University of Maryland",
+          "description": "Two decades after an embarrassing ethics scandal forced the U.S. Congress to revamp its disclosure requirements for members accepting private trips from special interest groups, those organizations have blown a hole through those rules. An investigation by veteran IRE members and their student teams at The Howard Center for Investigative Journalism at the University of Maryland and Boston University reveals, for the first time, how special interests paying for House members and their staff to travel around the world are skirting requirements limiting the access lobbyists involved in the trips have to House members.  The reporters examined 17,000 trips since 2012, also showing how 24 House members turned scores of trips into “influence peddling vacations” for themselves and their relatives. The team’s work led to a series of national investigative stories published in September 2024 with more on deck this year. You will leave this session ready to mine congressional private travel records and deeply probe special interest influence on House members in your state.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250308-30408.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "Quantifying history",
+          "speakers": "Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Alexia Fernandez Campbell, Bloomberg Industry Group; Jennifer LaFleur, UC Berkeley; Joyce Lee & Andrew Ba Tran, The Washington Post; Pratheek Rebala, ProPublica",
+          "description": "New tools allow us not just to quantify what is happening in the world today, but also to find new revelations in historical collections that previously have been inaccessible.  This panel will talk about their projects to tell previously ignored stories and give you tips and resources for doing your own work.",
+          "datetime": "2025-03-08T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1B28xZIsnMx9nrYBEnTDd_2U9oUHWJ6eGm-4zHll5Dcc/edit#slide=id.g2c2f049247d_0_6"
+            }
+          ]
+        },
+        {
+          "session_title": "Climate change has changed natural disasters; we must change how we prepare",
+          "speakers": "Adiel Kaplan, Columbia Journalism School; Chris Keller, The Associated Press; Teghan Simonton, Tampa Bay Times; M.K. Wildeman, Associated Press",
+          "description": "Wildfires and hurricanes. Excessive heat and bitter cold. Extreme weather events have become stronger, more prevalent, and more unpredictable thanks to human-caused climate change.\n \nWhile these events provide an opportunity to capture an audience's attention and explain the connection between extreme weather and climate change it isn’t always apparent how we can — whether we should — do that.\n\nThis moderated panel will combine firsthand insights from those covering extreme weather events with breaking news threat modeling to develop a framework for the age of human-caused climate change that emphasizes the \"So What\" and \"Here's Why This Matters\" of the unfolding story.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1wSrW4cOaiOXEZdShmvI2c2fP0CIDIuOak4-Hmr495e0/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Customizing ggplot for yourself or your organization",
+          "speakers": "Athena Chapekis & Kaitlyn Radde, Pew Research Center",
+          "description": "Imagine a version of ggplot customized to your organization’s style guidelines, in which you no longer have to write the same theme styling or geom_text layers every time you make a new chart. We’ve done that at Pew Research Center by writing our own graphics package made up of functions that modify, combine and extend existing ggplot functions (wrappers), and we want to share what we learned! We’ll demonstrate how to write these types of functions and give examples of the situations in which they’re particularly useful. At a minimum, attendees would leave the session knowing how to get much closer to publication-ready graphics without leaving R in far fewer lines of code. For those who may want to go beyond streamlining their personal ggplot use, we’ll also go over why (or why not) a custom R graphics package could be the right solution for their organizations — and how to start building one if it is.\nThis session is good for: intermediate R users familiar with ggplot.\nLaptops will be provided.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1FPCQN_F206aIq3LNTK1paMcXUWYFJDeNGpYq1wltMC0/preview#slide=id.p1"
+            },
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/pewresearch/pewplots-nicar-2025"
+            }
+          ]
+        },
+        {
+          "session_title": "Everything you need to know about political dark money",
+          "speakers": "Michael Beckel, Issue One; Robert Maguire, Citizens for Responsibility and Ethics in Washington (CREW); Shanna Ports, Campaign Legal Center; Albert Serna, LACIJ/Investigate LA",
+          "description": "Dark money played a major role in the 2024 elections, and in the months ahead, it will continue to shape the legislative landscape in Washington and all across the country. This panel will provide an overview of what you need to know to uncover dark money activity and try to find out who is behind it. Learn how to follow the money trails with tools and techniques to track secretive groups, piece together opaque spending networks, and uncover donors through political ad records, corporate records, and campaign finance data as well as filings with the Internal Revenue Service, Department of Labor, Congress, and more.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1a14Rplenyl4WoQwIn6K2mEzdhR49-1KR2AFqgddfwXI/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Cutting-edge web scraping techniques",
+          "speakers": "Simon Willison, Datasette",
+          "description": "Interested in new and effective advanced web scraping techniques? Join this session to learn about:\n\n- Video scraping: a new technique where you take a screen capture video and feed it into Google's Gemini 1.5 models to turn it into structured data. \n\n- Using image models such as Gemini, GPT-4o and Claude 3.5 Sonnet are also extremely effective. It's possible to extract structured data from images, or poorly structured PDF files\n\n- Other modern scraping techniques using libraries like Playwright - a modern alternative to Selenium - for browser automation. Browser automation becomes a lot less complicated if you combine it with video or image analysis models.\nThis session is good for: journalists with some web scraping experience. Attendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/simonw/nicar-2025-scraping/tree/main"
+            }
+          ]
+        },
+        {
+          "session_title": "From code to charts: Create DataWrapper graphics straight from R",
+          "speakers": "Adam Marton, Philip Merrill College of Journalism, University of Maryland",
+          "description": "Supercharge your visualization workflow by using the DataWrapper API to create powerful graphics directly from R. Clean, analyze and visualize data without exporting or switching between applications. Build charts and maps, create templates, automate production tasks and produce dozens (or hundreds) of charts with just a few lines of code. \n\nThis session is good for journalists with some knowledge of DataWrapper and R.",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/amarton/nicar-2025/tree/main/datawrapper-r"
+            }
+          ]
+        },
+        {
+          "session_title": "Spatial analysis using geographical Census data",
+          "speakers": "Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Sandhya Kambhampati, Los Angeles Times",
+          "description": "How to find more about your community with spatial analysis: This session will touch on how reporters can aggregate Census data using spatial analysis.\n\nThis session is good for journalists with some Python experience.\nLaptops will be provided.",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/sandhya-k/NICAR-spatial-analysis/tree/main"
+            }
+          ]
+        },
+        {
+          "session_title": "Yes, you still need to calculate an accuracy rate for your AI workflow",
+          "speakers": "Caitlin Gilbert & Jeremy Merrill & Ence Morse, The Washington Post",
+          "description": "LLMs like ChatGPT and Claude really can be helpful. I swear. They have helped us by reading large quantities of documents and classifying them, or by extracting a snippet, to answer questions like: Do these Truth Social posts contain an insult? Who is the guest in described in this podcast episode description? Is \"Bethel Christian School\" a religious or secular school?\n\nBut they don't always help on the first try -- and you can't evaluate AI with just vibes.\n\nI mean, you can. But you'll end up being wrong.\n\nCome learn best practice methodologies for how to use these sorts of AI classification and extraction methodologies from Washington Post journalists who have done about a dozen such experiments in the past year. We'll cover how to generate gold data, pick the right accuracy stat, calculate that accuracy stat and how to use those stats to improve your prompts.",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/16d1RajwUMJkHptsxce1JyOo7hgDi9ntwnLUYn2lzofY/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "AI tools for your newsroom",
+          "speakers": "Mike Reilley, University of Illinois Chicago & Journalist's Toolbox",
+          "description": "We'll cover new AI tools and technology for reporters and editors, with a focus on investigative work. Mike Reilley, founder of JournalistsToolbox.org and co-author of \"Data + Journalism\" will guide you through the latest and greatest data and digital tools (most of them free!) that you can incorporate into your workflow right now! Come armed with a laptop and smartphone. Participants get a handout with links to tools, examples, tips, tricks and more.\nThis session is good for everyone!",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Google Drive folder",
+              "url": "https://drive.google.com/drive/folders/1Ply4Kv9qOrG0XrId7-w59hFm8DZkowDU"
+            }
+          ]
+        },
+        {
+          "session_title": "First LLM Classifier: Practical AI in the newsroom *pre-registered attendees only",
+          "speakers": "Ben Welsh, Reuters; Derek Willis, University of Maryland",
+          "description": "Learn how journalists use large-language models to organize and analyze massive datasets.\n\nTake this three-hour class to get hands-on experience creating a machine-learning model that can classify the text recorded in campaign contributions, crime reports, legislative bills, consumer complaints and other newsworthy data.\n\nYou will learn how to:\n* Replace a complex machine-learning system with a simple LLM system\n* Write a prompt that classifies text into predefined categories\n* Evaluate your results using a rigorous, scientific approach\n* Improve your prompt by training it with rules and examples\n\nBy the end, you will understand how the new class of LLM classifiers can outperform traditional machine-learning methods with significantly less code, and you will be ready to write one yourself.\n\nAnyone who has dabbled with code and AI is qualified for this class. A curious mind and good attitude are all that’s required.\n\nPreregistration is required and seating is limited. Laptops will be provided.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://palewi.re/docs/first-llm-classifier/"
+            }
+          ]
+        },
+        {
+          "session_title": "Introduction to R *pre-registered attendees only",
+          "speakers": "Liz Lucas, University of Missouri School of Journalism",
+          "description": "We'll introduce you to R, a free, powerful open-source programming language that will take your data reporting to the next level. By the end of this three-hour session, you will be able to read data from common file types into R, clean and explore it, create visualizations, and make your entire data workflow reproducible. We'll also talk about how to find help when you're stuck.\n\nWorkshop prerequisites: This session will be most helpful if you’re comfortable working with data and you’re ready to take your skills to the next level.\n\nPreregistration is required and seating is limited. Laptops will be provided for the training.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/nicar25-intro-to-R"
+            }
+          ]
+        },
+        {
+          "session_title": "Tips for successful public records requests",
+          "speakers": "Marisa Kwiatkowski, Knight Foundation; Ryan Martin, Mirror Indy; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy",
+          "description": "Too often journalists are stonewalled when seeking public records that show how the government is operating at the national, state and local levels. This session will cover strategies to find success with the Freedom of Information Act and state public records laws, including how to get agencies to respond to your requests more quickly, steps you can take to overcome agencies' resistance and where you can find resources to help you appeal denials.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1W40Hs6XxjmKgyOcE13L8tZnn6qG1MlTp6C8unXW4Ydw/edit?tab=t.0#heading=h.xu54bippp7d7"
+            }
+          ]
+        },
+        {
+          "session_title": "Auditing AI algorithms for bias",
+          "speakers": "Varsha Bansal, Independent journalist; Tyler Dukes, McClatchy Media; Joanna Kao, Pulitzer Center; Hilke Schellmann, New York University",
+          "description": "AI is everywhere and reporters are finding new ways to hold AI tools accountable. This panel showcases original investigations into predictive and generative AI tools built by some of the largest technology companies in the world by two award-winning freelance reporters.\n\nTowards the end of the session, we will also discuss how reporters can use AI tools ethically and we would love to hear from the community what is needed to help reporters in newsrooms and freelance reporters.",
+          "datetime": "2025-03-08T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1HohIMcVx-77OkLKbbMsFgActhAODaDCSJW3oIZldNiU/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Surveys 101: A journalist’s guide to writing with polling data",
+          "speakers": "Chris Baronavski & Katherine Schaeffer, Pew Research Center",
+          "description": "A well-designed survey can lend important insight into the public’s views and experiences. For journalists, working with high-quality survey data can inspire story ideas and add deeper context to reporting, while mistakenly using a shoddy poll can distort the facts and create confusion. We’ll give attendees the tools to tell the difference.\nThis session is good for anyone who is fairly new to working with public opinion polls and would like to level up their understanding. It will cover what polls can tell us – and what they can't; and how to assess survey quality using metrics like questionnaire design, sample weighting and survey mode. We’ll also give tips on how to write about survey results in a fair and balanced way and pitfalls to avoid.",
+          "datetime": "2025-03-08T21:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250308-30439.pdf"
+            },
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250308-30440.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "How to turn your investigation or data findings into narrative audio",
+          "speakers": "Alexia Fernandez Campbell, Bloomberg Industry Group; Curtis Gilbert, APM Reports; Kate Howard, Reveal; Emily Zentner, The California Newsroom",
+          "description": "How do you turn a mountain of data and complex investigative findings into audio storytelling that captivates audiences? This panel explores the art of weaving complex data into character-rich, narrative storytelling in audio form. Whether it’s a podcast or a radio feature, this panel will give you advice on how to make your stories resonate to the ear.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1MmrcIjWuJHBpz2oijLbigk_cgcRVj2bPRgAPvbNZods/edit#slide=id.p"
+            }
+          ]
+        },
+        {
+          "session_title": "Swapping LexisNexis for free tools",
+          "speakers": "Dillon Bergin, MuckRock; Brandon Meyer, University of Florida; Diara J. Townes, Sunlight Research Center",
+          "description": "Expensive all-in-one research tools are attractive, especially if your newsroom has the money to pay for them — but what if it doesn’t? Or, what if you don’t want a tool to do your research and sell it back to you? In this panel, we’ll help you drop the subscription and find court records, search news archives and background businesses and people using your own elbow grease. We’ll show you why collecting your own datasets to do these tasks (and saving them over time) helps you more than relying on a tool not made for journalists or by journalists.\n\nYou’ll leave our panel confident that you can effectively research on your own and find support when you run into questions. Maybe you’ll even build a Lexis Nexis for your newsroom.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1ttQmVCqSVkyJBq-oDGMbVZqmim662V-qD3t5M6VDD7I/edit#slide=id.g33bff4d0c9e_0_220"
+            }
+          ]
+        },
+        {
+          "session_title": "Teaching lessons from the JedR Academy",
+          "speakers": "Yasmin Garcia, University of Texas at Austin ; Christian McDonald & Johan Villatoro, University of Texas at Austin",
+          "description": "While there is a myriad of platforms and methods to teach people R, this hands-on session will showcase the benefits and challenges of interactive lessons using Quarto Live and the posit.cloud platform, which we've used to develop JedR Academy, a fun way to learn and practice data journalism in R with a Star Wars theme. Learn to build interactive lessons that run in a browser without a Shiny server.\n\nThis session is good for: Those who teach R or are interested in developing interactive tutorials with Quarto Live and posit.cloud. Laptops will be provided.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/utdata/jedr-academy"
+            }
+          ]
+        },
+        {
+          "session_title": "The data sonification toolkit: Learn to make your data sing",
+          "speakers": "Aura Walmer, Reynolds Journalism Institute & University of Michigan",
+          "description": "Data sonification, the practice of turning data into sound and music, is a creative method that can greatly enhance data journalism and improve audience connection. In a world where data visualization is heavily relied upon, sonification presents a perfect opportunity to make digital media more accessible and emotionally impactful.\nIn this workshop, you will learn how to transform your journalistic work with data-driven audio. Using the Data Sonification Toolkit as a guide, we will cover basic concepts, methods, tools, and customization processes of sonification. Following a demonstration, participants will have the opportunity to create their own sonification pieces. A selection of datasets and recipes will be provided. Participants are also welcome to experiment with their own dataset.\nThis session is good for anyone interested in audio and making data come alive. No coding experience required! Please bring a laptop for the hands-on portion.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/awalmer/Sonification-Exercises"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1H1PFqWf8i4yUjc2QcoACxP_cGRWn17lGctWAxSjnREw/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Using data to report on the housing crisis in your community",
+          "speakers": "Jasmine Cui, NBC News; Maya Dukmasova, Injustice Watch; Teghan Simonton, Tampa Bay Times; Camila  Vallejo , Eviction Lab ",
+          "description": "As housing affordability becomes an increasing hurdle for many Americans, this session explores ways to quantify housing challenges across the country, paired with examples of local investigative reporting. Presenters from NBC News and Princeton’s Eviction Lab will share methodologies behind their data products — the Home Buyer Index and Eviction Tracking Tools — and how any newsroom can leverage these resources. Reporters from Tampa Bay Times and Injustice Watch will offer insights on investigating corporate landlords, building code enforcement and evictions in a local context. Attendees will walk away with hands-on strategies to develop compelling stories and shed light on housing affordability in your community.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/16jYrbmtKTusqwTHoFznV8O-mLdbfA25l9gMU4ZQiWkc/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Using open-source tools to investigate public transit",
+          "speakers": "Greg Morton, The Baltimore Banner",
+          "description": "Public transit systems offer a treasure trove of data that can reveal vital insights into accessibility, equity, and efficiency. Together, we’ll learn how to harness the data that powers tools like Google Maps and explore how these datasets can be used to investigate service coverage, travel times, and on-time performance. Whether you're uncovering how well a city serves its residents or tracking disparities in service quality, this session will arm you with the skills to transform transit data into compelling stories. This session is good for: Those who are comfortable using R and working with spatial data.\n\nLaptops will be provided",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/invisibae/nicar_2025_transit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "data": [
+        {
+          "session_title": "Election data to use after the election",
+          "speakers": "Derek Willis, University of Maryland",
+          "description": "For many news organizations, election data analysis ends on election night or soon after. But there are multiple types of election data produced in the weeks and months after the election ends, including cast vote records and voter history files. This session will demonstrate uses of them and ways that you can incorporate them into other types of reporting.",
+          "datetime": "2025-03-09T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/dwillis/nicar25-election-data"
+            }
+          ]
+        },
+        {
+          "session_title": "R 1: Intro to R and RStudio",
+          "speakers": "Destiny Herbers, Flatwater Free Press",
+          "description": "Jump into data analysis with R, the powerful open-source programming language. In this class we’ll cover R fundamentals and learn our way around the RStudio interface for using R.\nThis session is good for: People with a basic understanding of data analysis who are ready to go beyond spreadsheets. Laptops will be provided.",
+          "datetime": "2025-03-09T14:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/dherbers/NICAR25R1"
+            }
+          ]
+        },
+        {
+          "session_title": "R 2: Data analysis and plotting",
+          "speakers": "Maia Rosenfeld, ABC",
+          "description": "We'll use the tidyverse packages dplyr and ggplot2, learning how to sort, filter, group, summarize, join, and visualize to identify trends in your data. If you want to combine SQL-like analysis and charting in a single pipeline, this session is for you.\nThis session is good for: People who have worked with data operations in SQL or Excel and would like to do the same in R and have some experience working with RStudio. Laptops will be provided.",
+          "datetime": "2025-03-09T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-R123"
+            }
+          ]
+        },
+        {
+          "session_title": "Using IF statements and VLOOKUP in Sheets",
+          "speakers": "MaryJo Webster, Minnesota Star Tribune",
+          "description": "In this session, we'll help you take Google Sheets to another level, giving you some tools that are extremely helpful for data cleanup, restructuring and joining columns from another sheet.\nThis session is good for anyone comfortable with the basics of Google Sheets. Attendees will need to bring their own laptop (no tablets).",
+          "datetime": "2025-03-09T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://resources.ire.org/tipsheets/20250309-30389.pdf"
+            }
+          ]
+        },
+        {
+          "session_title": "When Excel doesn’t excel: Simple Python for problem spreadsheets",
+          "speakers": "Tom Nehil, The Minnesota Star Tribune",
+          "description": "Ever get a spreadsheet that's so big your computer struggles to even open the file, let alone start to sort, filter or pivot on it? Computer scripting can help you here, even if you’re not a programmer. In this session we’ll use Python to write some very basic scripts to make help make big datasets more manageable. No coding experience necessary.",
+          "datetime": "2025-03-09T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1hzyXER2Cs7OY4j8NOA47RAoXQ0zATBCjEfCrDtHOPRI/edit?tab=t.0#heading=h.l3xoyau58q91"
+            }
+          ]
+        },
+        {
+          "session_title": "R 3: Gathering and cleaning data",
+          "speakers": "Amelia McNamara, University of St. Thomas",
+          "description": "Learn how to import a wide variety of files in R including spreadsheets, files on the web and HTML tables, and transform the results into usable data. This session will also focus on how to clean and structure the data you've gathered in preparation for analysis using tidyverse packages.\nThis session is good for: People who have some experience using R and the Tidyverse. Laptops will be provided.",
+          "datetime": "2025-03-09T16:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "GitHub repo",
+              "url": "https://github.com/ireapps/teaching-guide-R123"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
