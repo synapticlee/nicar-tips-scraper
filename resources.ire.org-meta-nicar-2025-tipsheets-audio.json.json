@@ -1,10 +1,23 @@
 {
-  "total": 102,
+  "total": 112,
   "updated": "March 17",
   "sessions": [
     {
       "day": "Thursday",
       "data": [
+        {
+          "session_title": "Beginner track: New to data journalism? Start here",
+          "speakers": "Joel Jacobs, ProPublica; Anu Narayanswamy, The Washington Post; Janelle O'Dea, Illinois Answers Project; MaryJo Webster, Minnesota Star Tribune",
+          "description": "Over the next few days, you'll see there is a seemingly endless number of things you can learn in the data journalism world. It can be daunting! But everyone at this conference started at the same place as you. We'll help you get started! This session will cover the basics of data journalism, starting with what it is, tips for building up your skills and advice for how you can — realistically — integrate these skills into your daily reporting.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p"
+            }
+          ]
+        },
         {
           "session_title": "Coaching ChatGPT to help with coding and data tasks",
           "speakers": "Charles Minshew, The Atlanta Journal-Constitution",
@@ -71,6 +84,10 @@
             {
               "label": "GitHub repo",
               "url": "https://github.com/ireapps/teaching-guide-intro-to-pandas"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1uoFrbpwmQP4-Kddpa4VErdWDz2Pqz-NPnca9NvFm9OE/edit?tab=t.0#heading=h.93s6hba7j4u2"
             }
           ]
         },
@@ -97,6 +114,19 @@
             {
               "label": "GitHub repo",
               "url": "https://github.com/ghing/nicar-2025-command-line"
+            }
+          ]
+        },
+        {
+          "session_title": "The wonders of CDC WONDER: Analyzing birth and death data",
+          "speakers": "Paul Overberg, The Wall Street Journal",
+          "description": "In this session, panelists will share key data that they’ve relied on while reporting on the aftermath of the Dobbs decision to ultimately tell a larger story about public health, including from the CDC and WHO on maternal mortality, the AMA on OB/GYN training and workforces, and more. Speakers will point reporters to those sources and encourage them to think about new ways to tell the post-Dobbs story, with angles that go beyond abortion.\nThis session is good for anyone. Laptops will be provided.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/154yoYwBgL7FMhAMRmX9_063NWP7ZgX1B2Vq8u2FAQ0s/edit?tab=t.0"
             }
           ]
         },
@@ -304,7 +334,7 @@
           "tipsheets": [
             {
               "label": "Slides",
-              "url": "https://docs.google.com/presentation/d/1snA0oHf_9ZJZQfp3bn6CDT16mjr9MdeNYRwYnRc0VCc/edit?pli=1#slide=id.p"
+              "url": "https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p"
             }
           ]
         },
@@ -370,6 +400,36 @@
             {
               "label": "Slides",
               "url": "https://docs.google.com/presentation/d/1o7y2s5gnvpIi074dNZTPk3IDVmxn8sy3i33VNArdZuk/edit?usp=sharing"
+            }
+          ]
+        },
+        {
+          "session_title": "Building a culture of accessibility and why it matters",
+          "speakers": "Karen K. Ho, ARTnews; Joanna Kao, Pulitzer Center; Stacy Kess, Equal Access Public Media; Joe Murphy, NBC News",
+          "description": "Publishing stories that have impact and reach requires inclusion in every part of a story's journey, from hiring reporters and editors to reporting to production and promotion. How do we make newsrooms more equitable for disabled and chronically ill and caregiver journalists? How do we reach disabled sources? What are some practical tips for making your reporting reach more people? This panel will discuss how to make newsrooms more accessible, being more inclusive in your reporting and producing stories that can reach all corners of your audience.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1K2v0zqgq2gWxTAS9U4uPH65181FcFiK_oL0_liQbizo/edit?tab=t.0#heading=h.b1x2ky2i86zd"
+            },
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1jzHDavPmDTFyt_VgVi3v0UMWMsloP3rl0CZ_sZ8qyiw/edit#slide=id.g332e5154a5e_0_0"
+            }
+          ]
+        },
+        {
+          "session_title": "Data stories that don't look or sound like data stories",
+          "speakers": "Carrie Cochran, Independent journalist; Jodie Fleischer, Cox Media Group; Tom Scheck, APM Reports",
+          "description": "Don't be boring! Get and use data in your investigations but remember you're telling a story to an audience that's probably not as geeked out by the data as you are.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250306-30472.pdf"
             }
           ]
         },
@@ -1116,6 +1176,32 @@
           ]
         },
         {
+          "session_title": "How to adjust for inflation",
+          "speakers": "Paul Overberg, The Wall Street Journal",
+          "description": "Come for a gentle introduction to spreadsheets, stay for the lesson on how you can (and should) inflation-adjust almost anything you write about with a dollar sign. You'll also learn how to find inflation rates for slices of the economy like energy or housing, and how to build your own indexes as well.\n\nThis session is good for anyone. Laptops will be provided.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1nx2Jtf0gyJf2Y7sSTERfMyhKqMeRwyg6dDQizokkUOE/edit?tab=t.0"
+            }
+          ]
+        },
+        {
+          "session_title": "Covering transportation with data and docs",
+          "speakers": "Paul Overberg, The Wall Street Journal; Wesley Ratko, San Antonio Express-News",
+          "description": "From highways to railways to runways, transportation issues impact safety, the supply chain, interntional trade, and so much more. Come to this session to learn where to find important data and docs and how to use them to cover this sprawling topic, especially after high-profile incidents.",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1A21ygPu6dOTfNYfN9rBK-yLla9kE6GNajUDT1NKy3d0/edit#slide=id.p1"
+            }
+          ]
+        },
+        {
           "session_title": "Cutting-edge web scraping techniques",
           "speakers": "Simon Willison, Datasette",
           "description": "Interested in new and effective advanced web scraping techniques? Join this session to learn about:\n\n- Video scraping: a new technique where you take a screen capture video and feed it into Google's Gemini 1.5 models to turn it into structured data. \n\n- Using image models such as Gemini, GPT-4o and Claude 3.5 Sonnet are also extremely effective. It's possible to extract structured data from images, or poorly structured PDF files\n\n- Other modern scraping techniques using libraries like Playwright - a modern alternative to Selenium - for browser automation. Browser automation becomes a lot less complicated if you combine it with video or image analysis models.\nThis session is good for: journalists with some web scraping experience. Attendees will need to bring their own laptop (no tablets).",
@@ -1203,6 +1289,19 @@
             {
               "label": "GitHub repo",
               "url": "https://github.com/ireapps/nicar25-intro-to-R"
+            }
+          ]
+        },
+        {
+          "session_title": "Policing the police with data",
+          "speakers": "Lakeidra Chavis, The Marshall Project; Jeff Hargarten, Star Tribune; Matt Kiefer, Medill | Northwestern; Jennifer Lu, APM Reports",
+          "description": "From challenging police narratives to tracking police violence and tallying inflating police budgets, data has played a crucial role in holding police agencies accountable across the country. Come to this session to learn how to equip your reporting with crucial data that will help inform and improve your public safety journalism in your own communities.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/1oc8xmPzuBverbq7ZtHUJfN3YTNmd-8meO86NN9KJObs/edit?tab=t.0#heading=h.88ejq3v7xrsh"
             }
           ]
         },
@@ -1363,6 +1462,19 @@
           ]
         },
         {
+          "session_title": "Behind the story: Recovery Inc. – Using data to investigate the big business of addiction treatment",
+          "speakers": "Kelly Dietz, KARE11; A.J. Lagoe, KARE-TV",
+          "description": "Go behind the story with members of the team whose multi-year investigation into the business of addiction treatment has sparked reform laws, DOJ kickback and money laundering investigations, FBI raids, and fraud conspiracy indictments.",
+          "datetime": "2025-03-09T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250309-30470.pdf"
+            }
+          ]
+        },
+        {
           "session_title": "R 2: Data analysis and plotting",
           "speakers": "Maia Rosenfeld, ABC",
           "description": "We'll use the tidyverse packages dplyr and ggplot2, learning how to sort, filter, group, summarize, join, and visualize to identify trends in your data. If you want to combine SQL-like analysis and charting in a single pipeline, this session is for you.\nThis session is good for: People who have worked with data operations in SQL or Excel and would like to do the same in R and have some experience working with RStudio. Laptops will be provided.",
@@ -1385,6 +1497,10 @@
             {
               "label": "Tipsheet",
               "url": "https://resources.ire.org/tipsheets/20250309-30389.pdf"
+            },
+            {
+              "label": "Tipsheet",
+              "url": "https://docs.google.com/document/d/12Yb5-yeB-xM_A-Ctgdqjo6t4gkSUHIIpu7GwRMd1g0I/edit?tab=t.0"
             }
           ]
         },
@@ -1398,6 +1514,32 @@
             {
               "label": "Tipsheet",
               "url": "https://docs.google.com/document/d/1hzyXER2Cs7OY4j8NOA47RAoXQ0zATBCjEfCrDtHOPRI/edit?tab=t.0#heading=h.l3xoyau58q91"
+            }
+          ]
+        },
+        {
+          "session_title": "Yes, you really CAN get high-res satellite images for free",
+          "speakers": "Carl Churchill, The Wall Street Journal; Laura Kurtzberg, IRE & NICAR; Rowan Philp, GIJN; Daniel Wolfe, The Washington Post",
+          "description": "This panel will show newcomers to this compelling form of evidence that medium res images are now free and easy to use via open source portals (you can just tap a slider on EO Browser app to eliminate pictures with clouds), and also how to Make and Frame your email request to marketing people at private companies for high res images.",
+          "datetime": "2025-03-09T15:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1Vk_TAiENBeAjT88HQMHdXBXsPnZtg6MZaRSYa4qQbfc/edit#slide=id.g82901b2fc3_0_83"
+            }
+          ]
+        },
+        {
+          "session_title": "Creating simple maps for publication with satellite images and other raster data sources",
+          "speakers": "Laura Kurtzberg, IRE & NICAR",
+          "description": "This hands-on session will show you how to recreate three inspiring maps with satellite images or raster data. We will cover example workflows for downloading satellite imagery, understanding the data contained in a geotiff, and adding annotations and design elements for publication. \nThis session is good for: people who feel comfortable with the basics of QGIS, and anyone who wants to learn more about using satellite imagery analysis in their stories. Attending the \"Yes, you really CAN get high-res satellite images for free\" panel beforehand is recommended. Laptops will be provided.",
+          "datetime": "2025-03-09T16:30:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://docs.google.com/presentation/d/1jw0XF_VRmvux9qJSlkWQTsF6E-QqlhowvMG914j5Gbw/edit#slide=id.g82901b2fc3_0_83"
             }
           ]
         },
