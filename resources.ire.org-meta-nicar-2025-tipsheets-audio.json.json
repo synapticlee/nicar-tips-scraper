@@ -1,6 +1,6 @@
 {
-  "total": 112,
-  "updated": "March 17",
+  "total": 127,
+  "updated": "March 20",
   "sessions": [
     {
       "day": "Thursday",
@@ -92,6 +92,14 @@
           ]
         },
         {
+          "session_title": "Reporting in underserved communities with hard-to-get data",
+          "speakers": "Chelsea Curtis, Arizona Luminaria; Pam Dempsey, Data-Driven Reporting Project; Ayuka Kawakami, Independent journalist; Mauricio Peña, Borderless Magazine",
+          "description": "This panel discussion will show examples of how journalists are navigating complex and data-driven stories on underserved communities. Speakers will share stories and how they problem-solved connecting with the people behind the data.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1155.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Analyze large datasets in Google Sheets via Google Cloud",
           "speakers": "Tiff Fehr, The New York Times",
           "description": "Connect large data sets to Google Sheets, which has UI patterns, querying tools and other affordances that more newsroom collaborators are comfortable with. \n\nThis session is good for: people comfortable with csv, cloud services, spreadsheets and some SQL familiarity. Attendees will need to bring their own laptop (no tablets) to participate in this class.",
@@ -116,6 +124,22 @@
               "url": "https://github.com/ghing/nicar-2025-command-line"
             }
           ]
+        },
+        {
+          "session_title": "Practical, ethical use of AI in the newsroom: Translation, audio processing and chatbots",
+          "speakers": "Eric Nicholas Barrett, OCCRP; Tazbia Fatima, Hearst; Matt Zdun, Houston Chronicle",
+          "description": "As AI continnues to proliferate and become more advanced, how can journalists use this technology ethically while advancing the work we do? Come to this session to talk about how AI can be a helpful tool in your reporting, and how to mitigate ethical risks as you explore.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1064.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Technical tech regulators: The data we use to regulate the most powerful companies in the world",
+          "speakers": "Erie Meyer, Recent Federal Worker; Mike Tigas, Bad Idea Factory",
+          "description": "Get familiar with open data we use to regulate powerful companies, and discuss structures for accountability.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1087.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "The wonders of CDC WONDER: Analyzing birth and death data",
@@ -183,17 +207,33 @@
           ]
         },
         {
+          "session_title": "Get AI to read all that stuff with semantic search",
+          "speakers": "Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Jeremy Merrill & Steven Rich, The Washington Post",
+          "description": "Semantic search is a novel way to search large sets of short-ish text, like datasets of complaints, incident reports or social media posts. Instead of keyword search – which misses misspellings, paraphrase and use of terms that the user hasn't thought of  – semantic search finds results whose meaning is similar to that of the query.\n\nIt's a guaranteed-safe way to use AI in a newsroom context, because the only downside of a \"false positive\" match is wasting the reporter's time in reading the irrelevant search results.\n\nLet's talk about the use-cases where we've used it, the fiddly choices we have to make when using semantic search, and the bright new future that awaits us.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1089.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "How to start investigating your college or university with data and records",
           "speakers": "Mark Greenblatt, Arizona State University/Howard Center for Investigative Reporting; Deborah Nelson, University of Maryland; Jennifer Peebles, Atlanta Journal-Constitution",
           "description": "Are you a student journalist who wishes they had a clearer road map to how to get started doing accountability journalism on your college campus? Let's talk about how to get started. A session for total beginners. Let's talk about open records laws, federally required disclosure like IRS Form 990 and the Clery Act, and what's available to you even if you're at a private institution.",
           "datetime": "2025-03-06T17:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1013.mp3",
           "tipsheets": [
             {
               "label": "Slides",
               "url": "https://docs.google.com/presentation/d/1V9qcBAFMyCI7y8pJ0MvsV9ONxYPYEwpDTZc3lvsg1p4/edit#slide=id.g33bc2ad2e08_0_0"
             }
           ]
+        },
+        {
+          "session_title": "Turning police disciplinary files into data and stories",
+          "speakers": "Dillon Bergin, MuckRock; Elizabeth Santos, UC Berkeley; Sammy Sussman, The New York Times (Local Investigations Fellowship); Emily Zentner, The California Newsroom",
+          "description": "So you got your hands on a trove (or at least a pile) of documents about police misconduct —  what do you do? Our panelists will walk through the life of a document dump from a mess of PDFs to high-impact reporting. On this journey from documents to data, no detail will be spared. We’ll cover organizing and sharing the documents, testing OCR, hand-annotating, using LLMs and most importantly, finding stories in the haystacks of text. The tools and approaches we’ll cover in this panel will be useful even if your document trove isn’t about police misconduct. And if you’re looking to get your hands on police disciplinary files like the ones we’re working with, we’ll have some ideas for that too.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1112.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Using Python to analyze map data",
@@ -213,7 +253,7 @@
           "speakers": "David Cuillier & Sydney Sims, Brechner FOI Project",
           "description": "Why take time to argue with government records custodians when you can grab story-ripe data online for free? This session will run through 50 free datasets in 50 minutes – a twist on the 50 FOIA requests in 50 minutes. The classics, like dams, train wrecks, and bridge inspections, but also new ideas that the savvy data journalist may have missed. It will show where the datasets are located, what stories can be generated, and any caveats, with a handout providing all the relevant links to the data and IRE Resource Center tip sheets.",
           "datetime": "2025-03-06T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1048.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -261,6 +301,22 @@
           ]
         },
         {
+          "session_title": "How to run visual investigations",
+          "speakers": "Joyce Lee, The Washington Post; Maureen Linke & John West, The Wall Street Journal; Ryan McNeill, Reuters",
+          "description": "How to collaborate across the newsroom, alongside graphics, photo and video desks, to identify distinct investigative storylines that can only be told visually.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1011.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Learning a new beat in data",
+          "speakers": "Pooja Dantewadia, Realtor.com; Rosmery Izaguirre & Paroma Soni, Politico",
+          "description": "Lots of early-career data and graphics journalists may find themselves working on a niche beat new to them, with complicated data, hard-to-find data sources, and a need for in-depth knowledge to truly excel in their reporting. This session will provide a primer on how to build data-specific sources and contacts (including a tipsheet with some of this information for a range of beats), how to get your footing in a topic that's brand new, and how to emerge as an expert in your beat.",
+          "datetime": "2025-03-06T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1104.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Passive scraping for social media",
           "speakers": "Jonathan Soma, Columbia University",
           "description": "Scraping complex, changing sites with anti-bot measures like TikTok and Twitter is an uphill battle, but there's often a secret solution: spy on the traffic between your browser and the server, capturing the relevant pieces! This session will take a step into the second tier of “undocumented APIs,” showing participants how to intercept their browser’s data transmissions to build spreadsheets – often with far more information than is displayed on the screen.\n\nWe’ll cover several automated, coding-friendly use cases, but participants won’t need any technical skills beyond using a web browser.",
@@ -304,7 +360,7 @@
           "speakers": "Rosmery Izaguirre & Sean McMinn, Politico; Jonathan Soma, Columbia University",
           "description": "Come to this session to learn how to use AI to \"read\" documents like PDFs and Excel files. It's more than just feeding the documents in and asking for data. This session will go over techniques as well as common pitfalls and how to avoid them.",
           "datetime": "2025-03-06T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1037.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -330,7 +386,7 @@
           "speakers": "Sandhya Kambhampati, Los Angeles Times; Paul Overberg, The Wall Street Journal; David Van Riper, IPUMS; MaryJo Webster, Minnesota Star Tribune",
           "description": "Census microdata allows you to look at demographic trends that are impossible to find in Census summary data. This session will introduce you to the various free IPUMS tools to work with microdata and give you examples of how journalists have used this data in stories.",
           "datetime": "2025-03-06T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1051.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -369,7 +425,7 @@
           "speakers": "Tristan Lee & Logan Williams, Bellingcat",
           "description": "This session will show how journalists can begin incorporating open-source research methodologies in their investigations, with examples from real articles.",
           "datetime": "2025-03-06T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1173.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -382,7 +438,7 @@
           "speakers": "Carla Astudillo, The Texas Tribune; Tazbia Fatima, Hearst; Nael Shiab, CBC News; Kai Teoh, The Dallas Morning News",
           "description": "Journalists may use a variety of coding languages for data investigations or for news application development. Each project and each newsroom has a unique tech stack. You might be wondering: which ones should I try? Our panelists will discuss projects they’ve pursued with code, which languages they used, and why.",
           "datetime": "2025-03-06T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1039.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -551,7 +607,7 @@
           "speakers": "Ethan Corey, The Appeal; A.J. Lagoe, KARE-TV",
           "description": "It’s been a decade since Congress passed the Deaths in Custody Reporting Act, but the federal government still doesn’t know how many people die in jails or prisons or during arrests. Even worse, it has since told the inspector general that it has “no plans” of releasing the data it has already collected and is currently battling with USA Today and the Appeal in separate lawsuits, each seeking the data that the federal government has collected under DCRA.\n\nBut where do you start now? The lack of direction from the federal government means that each state handles this data differently. Different agencies collect different pieces of the data, and you’ll have to string it together yourself. In this panel, reporters who’ve done the hard work of piecing deaths in custody data together will walk you through how you can build your own database to hold jails, prisons and police agencies accountable.",
           "datetime": "2025-03-07T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1113.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -615,6 +671,14 @@
           ]
         },
         {
+          "session_title": "What's involved in data editing?",
+          "speakers": "Yoohyun Jung, Boston Globe; Allie Kanik, Houston Chronicle / San Antonio Express-News; Dan Kopf, San Francisco Chronicle; Kai Teoh, The Dallas Morning News; MaryJo Webster, Minnesota Star Tribune",
+          "description": "Though more and more newsrooms have embraced data journalism, not every newsroom has a data editor. So what goes into data editing, why do we need it, and how can we help the journalists in our newsrooms use the most accurate and responsible data? In a panel discussion, data editors will explore these questions.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1019.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "What's new in the world of LLMs",
           "speakers": "Simon Willison, Datasette",
           "description": "ChatGPT, Claude, GPT-4o, GPT-4.5, o1, o3, Gemini, Llama, DeepSeek, Mistral—the world of large language models shows no sign of slowing down. I've been tracking this space closely over the past two years, and in this session, I'll break down the highlights and key trends.\n\nThese systems are weird and unintuitive, but they also keep getting cheaper and more capable—including laptop-compatible models. I'll avoid the science fiction hypotheticals and focus on what works and what doesn't with the latest generation of available models.\n\nAt the end of December, I wrote about Things we learned about LLMs in 2024. A whole lot has happened since then!",
@@ -626,6 +690,14 @@
               "url": "https://simonwillison.net/2025/Mar/8/nicar-llms/"
             }
           ]
+        },
+        {
+          "session_title": "CAR (data journalism) through the decades",
+          "speakers": "Neena Hagen, The Boston Globe; Mark Horvit, University of Missouri; Brant Houston, University of Illinois; Laura Kurtzberg, IRE & NICAR; Shawn McIntosh, The Atlanta Journal-Constitution",
+          "description": "Join us to learn about how computer-assisted reporting has evolved, how it has influenced IRE, where it's going, what we think might be the next big thing. We’ll discuss advances in technology, trends that turned out to be game-changers and unexpected flops. This panel will be a moderated conversation with time for questions.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1023.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Custom dataviz with JavaScript 101",
@@ -671,7 +743,7 @@
           "speakers": "José Ignacio Castañeda, Spotlight Delaware; David Cuillier & Sydney Sims, Brechner FOI Project; Gunita Singh, Reporters Committee for Freedom of the Press",
           "description": "This practical workshop will lay out public records to help attendees examine injustice in their communities, and how to acquire those records. From police abuse, to red lining, to census, to Title IX, this session will provide a list of records to request to expose inequities and make the world a little better. Walk away with a list of dozens of records that you can request in your community to expose racial injustice. Learn strategies and techniques for acquiring these records when government custodians would rather you not. Get tips for working with marginalized communities to interpret the records with context and sensitivity.",
           "datetime": "2025-03-07T16:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1049.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -753,7 +825,7 @@
           "speakers": "Cody Lillich, KTVK/KPHO-TV; Kate Martin, APM Reports; Justin Myers, Chicago Public Media; Junyao Yang, Mission Local",
           "description": "If you're part of a small data team—or you are the data team—this session will cover practical ways to weave data into your beat, balance quick-turn stories with deeper investigations, and make the most of limited resources. Whether you're wrangling spreadsheets solo or collaborating with a small team, we’ll share tips, tools, and strategies to help you maximize your impact.",
           "datetime": "2025-03-07T17:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1028.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -766,7 +838,7 @@
           "speakers": "Pri Bengani, Bloomberg; Jon Keegan, Sherwood News",
           "description": "Reporting online today, journalists must battle with astroturf campaigns, fake news sites and sketchy shell companies to find out who is behind the story. Usually it leads to a frustratingly common question: Who is behind this website?\n\nUsing a range of tools (free and otherwise), we walk you through how to investigate the provenance and ownership of websites: how can you identify the scope and scale of the network it belongs to — if any? Who’s behind the site, now and in the past? Who are the main actors promoting this website? Where else does this site crop up?\n\nWhile it is not always possible to fully unmask the owner of a site, using a thorough checklist of tools and techniques that we have used in real-world investigations, we can help you make sure to reveal as much as possible about a website, and potentially uncover important clues.",
           "datetime": "2025-03-07T17:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1128.mp3",
           "tipsheets": [
             {
               "label": "GitHub repo",
@@ -861,7 +933,7 @@
           "speakers": "Emily Hopkins, Mirror Indy; Emilia Ruzicka, University of Virginia; Jake Steinberg, Minnesota Star Tribune",
           "description": "This is a panel for folks interested in data viz but who don't have a design background. It can be tempting to throw data into a variety of forms that end up not making sense to the readers (and can sometimes amount to journalistic malpractice!). Panelists will go through their approach to simple data viz and feature some go-to tools.",
           "datetime": "2025-03-07T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1116.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -904,7 +976,7 @@
           "speakers": "Diana Fuentes, IRE & NICAR; Renee Griffin, Reporters Committee for Freedom of the Press; Zach Mider, Bloomberg News; Wendy Wei, Investigative Project on Race and Equity",
           "description": "We often hear that undocumented people don't show up in many official data sources, but how can journalists looking to cover these improtant stories still equip themselves with important information that can level up thier reporting? Come to this session to find learn what data and docs exist to help you do important, thorough work that centers immigrants. \n\nThis session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
           "datetime": "2025-03-07T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1014.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -981,7 +1053,7 @@
           "speakers": "Adiel Kaplan, Columbia Journalism School; Veronica Penney, Science; Emily Zentner, The California Newsroom",
           "description": "Join us on a wild safari as we transform the quirky question, \"How many rats are in the Rainforest Cafe?\" into an adventure in logical thinking and strategic planning for data-based investigative journalism. We will journey through a hypothetical investigation into cleanliness at the Rainforest Cafe, breaking down the steps needed to tackle reporting questions on deadline with documents and data and showing how to expand from a seemingly simple query to a broader, impactful investigation. This will be a lively, interactive panel, ideally suited to early career journalists, or anyone else seeking to get comfortable with the process of approaching a story from an investigative mindset. By the end of the session, participants will leave equipped to craft an investigative data story from scratch — even starting from the most unexpected or whimsical question.",
           "datetime": "2025-03-07T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1061.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1072,7 +1144,7 @@
           "speakers": "Ben Camacho, The Southlander; Olivia Martin, Freedom of the Press Foundation; Stephanie Sugars, U.S. Press Freedom Tracker; Leita Walker, Ballard Spahr LLP",
           "description": "From cyberattacks that disrupt print and digital publishing to criminal and civil complaints for routine newsgathering, journalists and newsrooms today face myriad threats. Hear from panelists on how to navigate legal proceedings and keep yourself, sources and documents safe.",
           "datetime": "2025-03-08T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1101.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1111,7 +1183,7 @@
           "speakers": "Haiyi Bi & Maggie Mulvihill & Phil Randazzo, Boston University; Derek Willis, University of Maryland",
           "description": "Two decades after an embarrassing ethics scandal forced the U.S. Congress to revamp its disclosure requirements for members accepting private trips from special interest groups, those organizations have blown a hole through those rules. An investigation by veteran IRE members and their student teams at The Howard Center for Investigative Journalism at the University of Maryland and Boston University reveals, for the first time, how special interests paying for House members and their staff to travel around the world are skirting requirements limiting the access lobbyists involved in the trips have to House members.  The reporters examined 17,000 trips since 2012, also showing how 24 House members turned scores of trips into “influence peddling vacations” for themselves and their relatives. The team’s work led to a series of national investigative stories published in September 2024 with more on deck this year. You will leave this session ready to mine congressional private travel records and deeply probe special interest influence on House members in your state.",
           "datetime": "2025-03-08T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1147.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1124,7 +1196,7 @@
           "speakers": "Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Alexia Fernandez Campbell, Bloomberg Industry Group; Jennifer LaFleur, UC Berkeley; Joyce Lee & Andrew Ba Tran, The Washington Post; Pratheek Rebala, ProPublica",
           "description": "New tools allow us not just to quantify what is happening in the world today, but also to find new revelations in historical collections that previously have been inaccessible.  This panel will talk about their projects to tell previously ignored stories and give you tips and resources for doing your own work.",
           "datetime": "2025-03-08T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1022.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1137,7 +1209,7 @@
           "speakers": "Adiel Kaplan, Columbia Journalism School; Chris Keller, The Associated Press; Teghan Simonton, Tampa Bay Times; M.K. Wildeman, Associated Press",
           "description": "Wildfires and hurricanes. Excessive heat and bitter cold. Extreme weather events have become stronger, more prevalent, and more unpredictable thanks to human-caused climate change.\n \nWhile these events provide an opportunity to capture an audience's attention and explain the connection between extreme weather and climate change it isn’t always apparent how we can — whether we should — do that.\n\nThis moderated panel will combine firsthand insights from those covering extreme weather events with breaking news threat modeling to develop a framework for the age of human-caused climate change that emphasizes the \"So What\" and \"Here's Why This Matters\" of the unfolding story.",
           "datetime": "2025-03-08T16:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1072.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1167,7 +1239,7 @@
           "speakers": "Michael Beckel, Issue One; Robert Maguire, Citizens for Responsibility and Ethics in Washington (CREW); Shanna Ports, Campaign Legal Center; Albert Serna, LACIJ/Investigate LA",
           "description": "Dark money played a major role in the 2024 elections, and in the months ahead, it will continue to shape the legislative landscape in Washington and all across the country. This panel will provide an overview of what you need to know to uncover dark money activity and try to find out who is behind it. Learn how to follow the money trails with tools and techniques to track secretive groups, piece together opaque spending networks, and uncover donors through political ad records, corporate records, and campaign finance data as well as filings with the Internal Revenue Service, Department of Labor, Congress, and more.",
           "datetime": "2025-03-08T16:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1110.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1189,11 +1261,19 @@
           ]
         },
         {
+          "session_title": "Workshop your public records request",
+          "speakers": "Dillon Bergin & Kelly Kauffman, MuckRock; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy",
+          "description": "Never filed a public records request yet? No worries! Bring your request ideas and get help from public records experts as you file your first request. At the end of the session, you’ll have a submitted a public records request to the agency of your choice and leave with tips that can help you file even more requests.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1109.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Covering transportation with data and docs",
           "speakers": "Paul Overberg, The Wall Street Journal; Wesley Ratko, San Antonio Express-News",
           "description": "From highways to railways to runways, transportation issues impact safety, the supply chain, interntional trade, and so much more. Come to this session to learn where to find important data and docs and how to use them to cover this sprawling topic, especially after high-profile incidents.",
           "datetime": "2025-03-08T17:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1133.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1228,6 +1308,14 @@
           ]
         },
         {
+          "session_title": "Lessons learned from inclusive collaborations to inform Global Majority-led cross-border investigations",
+          "speakers": "Eva Constantaras & Jack Sapoch, Lighthouse Reports; Mónica Cordero Sancho, Investigate Midwest ; William Lager, The Marshall Project; Bianca  Muniz, Agência Pública de Jornalismo Investigativo",
+          "description": "Many cross-border investigations are led by a Global Minority media partner who are incentivized to prioritize Global Minority editorial objectives and audiences. How could we apply DEI practices that have been pioneered in collaborative community reporting projects to design more equitable international collaborations?",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1131.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Spatial analysis using geographical Census data",
           "speakers": "Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Sandhya Kambhampati, Los Angeles Times",
           "description": "How to find more about your community with spatial analysis: This session will touch on how reporters can aggregate Census data using spatial analysis.\n\nThis session is good for journalists with some Python experience.\nLaptops will be provided.",
@@ -1245,7 +1333,7 @@
           "speakers": "Caitlin Gilbert & Jeremy Merrill & Ence Morse, The Washington Post",
           "description": "LLMs like ChatGPT and Claude really can be helpful. I swear. They have helped us by reading large quantities of documents and classifying them, or by extracting a snippet, to answer questions like: Do these Truth Social posts contain an insult? Who is the guest in described in this podcast episode description? Is \"Bethel Christian School\" a religious or secular school?\n\nBut they don't always help on the first try -- and you can't evaluate AI with just vibes.\n\nI mean, you can. But you'll end up being wrong.\n\nCome learn best practice methodologies for how to use these sorts of AI classification and extraction methodologies from Washington Post journalists who have done about a dozen such experiments in the past year. We'll cover how to generate gold data, pick the right accuracy stat, calculate that accuracy stat and how to use those stats to improve your prompts.",
           "datetime": "2025-03-08T17:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1088.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1323,7 +1411,7 @@
           "speakers": "Varsha Bansal, Independent journalist; Tyler Dukes, McClatchy Media; Joanna Kao, Pulitzer Center; Hilke Schellmann, New York University",
           "description": "AI is everywhere and reporters are finding new ways to hold AI tools accountable. This panel showcases original investigations into predictive and generative AI tools built by some of the largest technology companies in the world by two award-winning freelance reporters.\n\nTowards the end of the session, we will also discuss how reporters can use AI tools ethically and we would love to hear from the community what is needed to help reporters in newsrooms and freelance reporters.",
           "datetime": "2025-03-08T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1135.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1332,11 +1420,19 @@
           ]
         },
         {
+          "session_title": "No comment? What to do when government agencies won't answer your questions about their data",
+          "speakers": "Hannah Fresques, ProPublica; Jane Kirtley, University of Minnesota; Ryan Little & Greg Morton, The Baltimore Banner",
+          "description": "What to do when the owner of the data you are analyzing says no comment.",
+          "datetime": "2025-03-08T21:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1154.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Surveys 101: A journalist’s guide to writing with polling data",
           "speakers": "Chris Baronavski & Katherine Schaeffer, Pew Research Center",
           "description": "A well-designed survey can lend important insight into the public’s views and experiences. For journalists, working with high-quality survey data can inspire story ideas and add deeper context to reporting, while mistakenly using a shoddy poll can distort the facts and create confusion. We’ll give attendees the tools to tell the difference.\nThis session is good for anyone who is fairly new to working with public opinion polls and would like to level up their understanding. It will cover what polls can tell us – and what they can't; and how to assess survey quality using metrics like questionnaire design, sample weighting and survey mode. We’ll also give tips on how to write about survey results in a fair and balanced way and pitfalls to avoid.",
           "datetime": "2025-03-08T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1060.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1347,6 +1443,14 @@
               "url": "https://resources.ire.org/tipsheets/20250308-30440.pdf"
             }
           ]
+        },
+        {
+          "session_title": "Tools, tips and tough lessons for teaching data journalism",
+          "speakers": "Rahul Bhargava, Northeastern University; Maggie Mulvihill, Boston University; Matt Waite, University of Nebraska",
+          "description": "This panel is all about the latest in teaching data journalism to college students. Many NICAR participants have been teaching for a long time, or make side money teaching a class as an adjunct. The panelists will discuss strategies and techniques that help make data journalism accessible to students.",
+          "datetime": "2025-03-08T21:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1186.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "How to turn your investigation or data findings into narrative audio",
@@ -1362,11 +1466,19 @@
           ]
         },
         {
+          "session_title": "Practical, ethical use of AI in the newsroom: Research, reporting and fact-checking",
+          "speakers": "Katlyn Alo, The Washington Post; Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Ryan Sabalow, CalMatters",
+          "description": "This panel brings together journalists and engineers who are leveraging AI to report groundbreaking stories, surface leads from troves of data, and bolster the integrity of their journalism. Panelists will discuss the shortcomings and risks of this rapidly evolving technology, as well as the opportunities for experimentation and how to responsibly incorporate AI in your newsroom. Attendees will leave with some guiding principles for using AI, some cautionary tales to help them avoid our mistakes, and some inspiration for how they can creatively incorporate these technologies to enhance their accountability reporting.",
+          "datetime": "2025-03-08T22:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1166.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Swapping LexisNexis for free tools",
           "speakers": "Dillon Bergin, MuckRock; Brandon Meyer, University of Florida; Diara J. Townes, Sunlight Research Center",
           "description": "Expensive all-in-one research tools are attractive, especially if your newsroom has the money to pay for them — but what if it doesn’t? Or, what if you don’t want a tool to do your research and sell it back to you? In this panel, we’ll help you drop the subscription and find court records, search news archives and background businesses and people using your own elbow grease. We’ll show you why collecting your own datasets to do these tasks (and saving them over time) helps you more than relying on a tool not made for journalists or by journalists.\n\nYou’ll leave our panel confident that you can effectively research on your own and find support when you run into questions. Maybe you’ll even build a Lexis Nexis for your newsroom.",
           "datetime": "2025-03-08T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1111.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1409,7 +1521,7 @@
           "speakers": "Jasmine Cui, NBC News; Maya Dukmasova, Injustice Watch; Teghan Simonton, Tampa Bay Times; Camila  Vallejo , Eviction Lab ",
           "description": "As housing affordability becomes an increasing hurdle for many Americans, this session explores ways to quantify housing challenges across the country, paired with examples of local investigative reporting. Presenters from NBC News and Princeton’s Eviction Lab will share methodologies behind their data products — the Home Buyer Index and Eviction Tracking Tools — and how any newsroom can leverage these resources. Reporters from Tampa Bay Times and Injustice Watch will offer insights on investigating corporate landlords, building code enforcement and evictions in a local context. Attendees will walk away with hands-on strategies to develop compelling stories and shed light on housing affordability in your community.",
           "datetime": "2025-03-08T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-1117.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1440,7 +1552,7 @@
           "speakers": "Derek Willis, University of Maryland",
           "description": "For many news organizations, election data analysis ends on election night or soon after. But there are multiple types of election data produced in the weeks and months after the election ends, including cast vote records and voter history files. This session will demonstrate uses of them and ways that you can incorporate them into other types of reporting.",
           "datetime": "2025-03-09T14:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-1119.mp3",
           "tipsheets": [
             {
               "label": "GitHub repo",
@@ -1522,7 +1634,7 @@
           "speakers": "Carl Churchill, The Wall Street Journal; Laura Kurtzberg, IRE & NICAR; Rowan Philp, GIJN; Daniel Wolfe, The Washington Post",
           "description": "This panel will show newcomers to this compelling form of evidence that medium res images are now free and easy to use via open source portals (you can just tap a slider on EO Browser app to eliminate pictures with clouds), and also how to Make and Frame your email request to marketing people at private companies for high res images.",
           "datetime": "2025-03-09T15:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-1125.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1542,6 +1654,14 @@
               "url": "https://docs.google.com/presentation/d/1jw0XF_VRmvux9qJSlkWQTsF6E-QqlhowvMG914j5Gbw/edit#slide=id.g82901b2fc3_0_83"
             }
           ]
+        },
+        {
+          "session_title": "Early career journalists' roundtable",
+          "speakers": "Diana Fuentes, IRE & NICAR; Teghan Simonton, Tampa Bay Times",
+          "description": "Journalism is an ever-changing, ever-evolving industry and that goes doubly these days. Come to this session for discussion about what it means to be a journalist, how to carve out a path for yourself in the industry, and how to handle the trials and tribulations that come with this work.",
+          "datetime": "2025-03-09T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-1163.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "R 3: Gathering and cleaning data",
