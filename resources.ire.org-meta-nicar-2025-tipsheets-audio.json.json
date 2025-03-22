@@ -1,6 +1,6 @@
 {
-  "total": 127,
-  "updated": "March 20",
+  "total": 146,
+  "updated": "March 21",
   "sessions": [
     {
       "day": "Thursday",
@@ -10,13 +10,21 @@
           "speakers": "Joel Jacobs, ProPublica; Anu Narayanswamy, The Washington Post; Janelle O'Dea, Illinois Answers Project; MaryJo Webster, Minnesota Star Tribune",
           "description": "Over the next few days, you'll see there is a seemingly endless number of things you can learn in the data journalism world. It can be daunting! But everyone at this conference started at the same place as you. We'll help you get started! This session will cover the basics of data journalism, starting with what it is, tips for building up your skills and advice for how you can — realistically — integrate these skills into your daily reporting.",
           "datetime": "2025-03-06T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2070.mp3",
           "tipsheets": [
             {
               "label": "Slides",
               "url": "https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p"
             }
           ]
+        },
+        {
+          "session_title": "Big Local News tools, wares and resources",
+          "speakers": "Gerald Rich & Eric Sagara & Serdar Tumgoren, Big Local News",
+          "description": "A lightning-round showcase of innovative newsroom tools and other resources that can help you collaborate on data journalism projects, harvest data and documents at scale, and track institutions for accountability reporting, from police agencies to state legislatures.",
+          "datetime": "2025-03-06T15:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2047.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Coaching ChatGPT to help with coding and data tasks",
@@ -36,7 +44,7 @@
           "speakers": "Becky Dernbach, Sahan Journal; Sharon Lurye, The Associated Press; Nadia Tamez-Robledo, EdSurge; Ann Thomas, retired analytics advisor",
           "description": "Join this panel to learn the most important datasets, what to do if they disappear, how to approach K-12 data when you’re new to the beat, state-level data and story ideas.",
           "datetime": "2025-03-06T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2066.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -53,7 +61,7 @@
           "speakers": "Helena Bengtsson, Gota Media; Irene Casado Sanchez, Big Local News; Eva Constantaras, Lighthouse Reports; Andy Lehren, The Center for Collaborative Investigative Journalism | CUNY JSchool; Bianca  Muniz, Agência Pública de Jornalismo Investigativo",
           "description": "In an interconnected world, data is more accessible than ever—but finding and using global data comes with unique challenges. In this panel, reporters will explore strategies for locating reliable international datasets and navigating the obstacles that come with using them. From language barriers to currency conversions, inconsistent formats, and varying levels of data transparency, journalists must adapt to diverse contexts to uncover the story within the data. Panelists will share practical solutions for addressing these challenges, including best practices for working with multilingual datasets, standardizing metrics across borders, and verifying sources in regions with limited transparency. Additionally, the session will tackle the complex issue of obtaining documents and records in countries where public records laws are weak, inefficient, or nonexistent. Panelists will highlight creative approaches to accessing critical information, from building local partnerships to leveraging non-traditional sources.\nKey questions for discussion during the panel:\n- What are the most effective methods for identifying and accessing reliable global data sources?\n- What unique challenges do international datasets present—such as language barriers, currency discrepancies, or incompatible formats—and what strategies can help overcome them?\n- How can journalists access critical documents in countries where public records laws are weak, inefficient, or nonexistent?",
           "datetime": "2025-03-06T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2005.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -111,6 +119,14 @@
               "url": "https://docs.google.com/presentation/d/1KSuvk23sUVTqH6fpe367_M3W2LGAyJrMroqLZyMdILc/edit#slide=id.p"
             }
           ]
+        },
+        {
+          "session_title": "Beginner track: How to find data",
+          "speakers": "Greta Kaul, Minnesota Star Tribune; Stephanie Lamm, The Atlanta Journal-Constitution",
+          "description": "How to find and vet credible data sources that you can use right away.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2071.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Introduction to the command line (Macs)",
@@ -181,6 +197,14 @@
           ]
         },
         {
+          "session_title": "When databases don’t exist",
+          "speakers": "Charles Boutaud, Lighthouse Reports; Alyson Clary, APM Research Lab ; Caitlin McGlade, Arizona Republic",
+          "description": "It’s happened to so many of us: you embark on a story idea with great excitement only to find that no one is tracking the problem you’re reporting on in any meaningful way so you can’t get a sense for scope, severity and disparities. It’s natural to feel deflated and maybe even move on – but three journalists who have pressed forward anyway will discuss how to wrangle disorganized information from various sources into formats you can analyze and tell stories from.",
+          "datetime": "2025-03-06T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2010.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Bringing data journalism to the sports section",
           "speakers": "Matt Waite, University of Nebraska; MaryJo Webster, Minnesota Star Tribune; Derek Willis, University of Maryland",
           "description": "Sports is absolutely drowning in data and there is a large and hungry audience for sports content. Alongside that, there's a large and growing open-source sports analytics community that data journalists should be a part of. In this hands-on class, speakers will take you through examples of ways to use traditional data journalism tools like R and the Tidyverse to bring in up-to-the-moment sports data and do sophisticated analysis that you can immediately visualize to add context to seasons, leagues and sports.\nThis session is good for journalists with some R experience.\nLaptops will be provided.",
@@ -212,6 +236,14 @@
           "description": "Semantic search is a novel way to search large sets of short-ish text, like datasets of complaints, incident reports or social media posts. Instead of keyword search – which misses misspellings, paraphrase and use of terms that the user hasn't thought of  – semantic search finds results whose meaning is similar to that of the query.\n\nIt's a guaranteed-safe way to use AI in a newsroom context, because the only downside of a \"false positive\" match is wasting the reporter's time in reading the irrelevant search results.\n\nLet's talk about the use-cases where we've used it, the fiddly choices we have to make when using semantic search, and the bright new future that awaits us.",
           "datetime": "2025-03-06T17:30:00.000Z",
           "audio_recording_link": "https://resources.ire.org/audio/20250306-1089.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Google Trends for journalism",
+          "speakers": "Sam Larson-Rodriguez, Google Trends",
+          "description": "Find out how to discover what people are searching for, what's trending near you, and see the tools latest features with hands-on training. We will cover how to use Google Trends to find story ideas, add color to data-driven storytelling, and how to dive deeper to discover geographic patterns and how to build time and topic comparisons.\n\nThis session is sponsored by Google. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-03-06T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-3004.mp3",
           "tipsheets": []
         },
         {
@@ -321,7 +353,7 @@
           "speakers": "Jonathan Soma, Columbia University",
           "description": "Scraping complex, changing sites with anti-bot measures like TikTok and Twitter is an uphill battle, but there's often a secret solution: spy on the traffic between your browser and the server, capturing the relevant pieces! This session will take a step into the second tier of “undocumented APIs,” showing participants how to intercept their browser’s data transmissions to build spreadsheets – often with far more information than is displayed on the screen.\n\nWe’ll cover several automated, coding-friendly use cases, but participants won’t need any technical skills beyond using a web browser.",
           "datetime": "2025-03-06T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2049.mp3",
           "tipsheets": [
             {
               "label": "GitHub repo",
@@ -347,7 +379,7 @@
           "speakers": "Sandra Fish, Independent journalist; Adrian Garcia, Financial Times Specialist; John Harden, The Washington Post; Caitlin Ostroff, The Wall Street Journal",
           "description": "We’ve all have mentors, maybe just for that one breakfast, maybe for that one job transition, maybe for a lifetime. We’ll talk about how to find a mentor, how to set goals, how often to reach out, how to be a good mentor and how to be a good mentee. And why it’s sometimes important to look for help outside your workplace. Bring your questions, we'll leave plenty of time for Q&A.",
           "datetime": "2025-03-06T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2097.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -451,7 +483,7 @@
           "speakers": "Kate Martin, APM Reports; Andrew Pantazi, Freelance Editor; Tisha Thompson, ESPN",
           "description": "Introduction to making successful requests for public data or documents.",
           "datetime": "2025-03-06T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2072.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -464,7 +496,7 @@
           "speakers": "Karen K. Ho, ARTnews; Joanna Kao, Pulitzer Center; Stacy Kess, Equal Access Public Media; Joe Murphy, NBC News",
           "description": "Publishing stories that have impact and reach requires inclusion in every part of a story's journey, from hiring reporters and editors to reporting to production and promotion. How do we make newsrooms more equitable for disabled and chronically ill and caregiver journalists? How do we reach disabled sources? What are some practical tips for making your reporting reach more people? This panel will discuss how to make newsrooms more accessible, being more inclusive in your reporting and producing stories that can reach all corners of your audience.",
           "datetime": "2025-03-06T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2051.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -481,7 +513,7 @@
           "speakers": "Carrie Cochran, Independent journalist; Jodie Fleischer, Cox Media Group; Tom Scheck, APM Reports",
           "description": "Don't be boring! Get and use data in your investigations but remember you're telling a story to an audience that's probably not as geeked out by the data as you are.",
           "datetime": "2025-03-06T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-2082.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -494,7 +526,7 @@
           "speakers": "Darla Cameron, The Texas Tribune; Silvia Dal Ben Furtado, University of Texas at Austin School of Journalism and Media; Andrew Ford, USA Today / Gannett; Josh Hinkle, KXAN; Cynthia Tu, Sahan Journal",
           "description": "Join news leaders to discuss the why, when, and how to develop an AI policy for your newsroom.",
           "datetime": "2025-03-06T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-1196.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -514,6 +546,14 @@
               "url": "https://github.com/jsvine/nicar-2025-pdfplumber-workshop.git"
             }
           ]
+        },
+        {
+          "session_title": "Finding the story: Using DNS search for investigative journalism",
+          "speakers": "Kelly Molloy, Domain Tools; Daniel Schwalbe, DomainTools ",
+          "description": "Every online interaction begins with a lookup in the Domain Name System (DNS), the backbone of the Internet. As a result, there are digital footprints left behind in the DNS. With the demise of Whois, investigative reporters are looking for new tools to uncover these footprints. Learn how to use DNSDB Scout, a tool to query DNSDB, a historical passive DNS database, to discover previously unknown online connections and gain new information to advance your  ongoing and breaking news investigations. \n\nBasic knowledge of the Domain Name System (DNS) is helpful, but not required. Attendees will need to bring their own laptop (no tablets) to participate in this class.",
+          "datetime": "2025-03-06T22:45:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250306-3016.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Making publishable graphics in R Studio",
@@ -546,6 +586,14 @@
     {
       "day": "Friday",
       "data": [
+        {
+          "session_title": "Beginner track: Feed the beast: Integrating data nuggets on deadline",
+          "speakers": "Maggie Green, ABC7 Chicago, WLS; Daniela Ibarra, KSAT; John Kelly, CBS News; Stephen Stock, Gray Media InvestigateTV - WVUE Fox 8",
+          "description": "No need to do a long-form investigative, data-heavy story. Start small.",
+          "datetime": "2025-03-07T15:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2073.mp3",
+          "tipsheets": []
+        },
         {
           "session_title": "How economic development incentives impact public budgets",
           "speakers": "Arlene Martinez & Jeremy Thompson, Good Jobs First",
@@ -713,6 +761,14 @@
           ]
         },
         {
+          "session_title": "Digging deep: Scraping government websites",
+          "speakers": "Jennifer Burns, (Bright Data) Data for Bright Journalists; Michael Newton, Bright Data",
+          "description": "Join us as we scrape a government website live and dig pages deep to extract specific data. Whether your data is a search bar and five clicks into the database, or located in a document, we’ll show you how to use a tool that will save your team hours of work and make what seems impossible, possible.\n\nThis session is sponsored by Bright Data. IRE retains control of content, including the topic and speaker selection, for all conference sessions.",
+          "datetime": "2025-03-07T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2098.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Extracting data from the worst PDFs on the planet",
           "speakers": "Derek Willis, University of Maryland",
           "description": "Some PDFs defy conventional attempts at parsing (and logic). We’ll walk through a few ways to tackle layout issues, image PDFs and more. Bring your worst and we’ll try them, too.\n\nThis session would be good for those who aren’t super technical but are willing to experiment with new tools. Laptops will be provided.",
@@ -786,7 +842,7 @@
           "speakers": "Peyton Barish, Knight Commission on Intercollegiate Athletics; Josh Fine & Jodi Upton, Syracuse University; Paula Lavigne, ESPN",
           "description": "Do you pay tuition? Interested in sports? Regardless of your devotion to your school’s team, the amateur athletics model that has ruled for decades is crashing down, thanks to the recent House settlement. And students may pay part of that price. Most Division I schools are expected to start paying athletes up to $20 million a year (total), but the settlement is wreaking havoc in Athletics departments trying to get ready for implementation July 1. Whether it’s Title IX equity, fundraising challenges, student fee increases, student-athletes losing positions on teams…there are dozens of stories to cover on campus in this new world of college athletics. And all that before the new administration makes changes. We’ll give you details on the settlement arrangement and its expected impact on NIL and other issues, plus hands-on help on how to track the documents and data to cover what’s happening at your school.\n\nThis panel will be immediately followed by a networking reception for those who attend the panel.",
           "datetime": "2025-03-07T16:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2084.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -819,6 +875,14 @@
               "url": "https://github.com/brandonrobertz/nicar2025-ai-py-crash-course"
             }
           ]
+        },
+        {
+          "session_title": "Building the bridge to advanced data journalism",
+          "speakers": "Liz Lucas, University of Missouri School of Journalism; Dhrumil Mehta, Columbia University; Alex Richards, Syracuse University; Derek Willis, University of Maryland",
+          "description": "Your students are comfortable with the fundamentals: they’re (mostly) fluent in numeracy, proficient with Google Sheets, can make publishable data visualizations and understand how to integrate data into their storytelling. Now it’s time to design an advanced class so that they can take the next logical step. But where should you concentrate your efforts to deepen their expertise? And how can you introduce challenging concepts—like coding, scraping and stats—without overwhelming them? Join some of the field’s top journalist-educators as they share practical strategies to make more advanced data skills accessible and meaningful over the course of a semester.",
+          "datetime": "2025-03-07T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1192.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Data reporting for smaller newsrooms",
@@ -877,6 +941,14 @@
           ]
         },
         {
+          "session_title": "15 health datasets in 60 minutes",
+          "speakers": "Madi Alexander, Politico",
+          "description": "Illness, disease and death, oh my! Health data can be a scary subject full of unreliable methods and incomplete data. We'll show you 15 reliable health-related databases and demonstrate how they can be used to localize national trends.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2057.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "AI starter pack: JavaScript",
           "speakers": "Alex Garcia, Self-employed",
           "description": "Wondering how to leverage JavaScript for common newsroom AI tasks? In this session, you'll code your way through an example project and get a crash course on the libraries, techniques and learning resources available for JavaScript users who want to `npm init` their first AI project.\n\nThis session is good for people who feel comfortable writing JavaScript. Laptops will be provided.",
@@ -907,7 +979,7 @@
           "speakers": "Sandhya Kambhampati, Los Angeles Times; Liz Lucas, University of Missouri School of Journalism; Teghan Simonton, Tampa Bay Times",
           "description": "Using data in your storytelling doesn't have to feel like running with scissors. Learn the best practices to make sure your stories and data aren't wrong.",
           "datetime": "2025-03-07T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2061.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -940,6 +1012,14 @@
               "url": "https://docs.google.com/presentation/d/1ufMp2LJ3iHE7Oc0ZIGmjPkbgz2FsEZKsxfyTb1CDkz4/edit#slide=id.g332961f0d21_0_0"
             }
           ]
+        },
+        {
+          "session_title": "Don't let go!: The challenges and benefits of continuing your data coverage",
+          "speakers": "Rosie Cima, Big Local News; Amy Fan, Independent journalist; Weihua Li, Bloomberg News; Tom McGinty, Wall Street Journal",
+          "description": "“Don't let go”: A moderated panel on the challenges and benefits of following a story, and getting multiple stories out of the same or related data sets -- sometimes over the course of months or years. We’ll go through recent examples and discuss how we structured our continuing coverage, how we were able to return to and extend the original data, how we made it work with our newsroom’s editorial strategy, and how we tried to get the most out of every piece.",
+          "datetime": "2025-03-07T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-1193.mp3",
+          "tipsheets": []
         },
         {
           "session_title": "Finding the story: Wildfire data",
@@ -1027,7 +1107,7 @@
           "speakers": "Cindy Galli, ABC News; Terri Langford, The Texas Tribune ; Paula Lavigne, ESPN; Aaron Mendelson, The Trace",
           "description": "Best strategies for taking daily reporting to the next step.",
           "datetime": "2025-03-07T21:30:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2075.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1079,6 +1159,14 @@
           ]
         },
         {
+          "session_title": "The internet was never written in ink",
+          "speakers": "Chris Amico, MuckRock; Mark Horvit, University of Missouri; Cheryl Phillips, Stanford University; Cam Rodriguez, The New York Times",
+          "description": "Newsrooms are taking old articles offline, projects are deprecating, governments are censoring and retconning. Right now, for reporters who rely on federal data, the ice seems to get thinner and thinner by the day when it comes to access. \n\nBut it’s a problem that far predates the current crisis of transparency. How often have you needed something that you bookmarked eons ago that is now offline or broken? Or needed a historical copy of a dataset that is overwritten every week or retroactively edited? Or been stopped in downloading data because a link was taken down, and the agency doesn’t know how to reply to your FOIA?\n\nIn this session, we’ll talk about different strategies to scrape, pull, download and store data and build your own digital collection and archive. We’ll share tools that we use every day to ensure we have reliable access to data we need, and approaches to documenting and managing that data to make it easy to find and use in the future. \n\n(And yes, we’ll talk about what the heck to do with the federal government right now, and alternatives to current data sources that organizations have set up.)",
+          "datetime": "2025-03-07T21:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-2043.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Unlocking interactive maps for newsrooms",
           "speakers": "Brandon Liu, Protomaps",
           "description": "Newsrooms need interactive maps, but the flexibility, cost and longevity of third party APIs are common obstacles. This session walks through how to build your own in-house mapping stack using the Protomaps toolset. We'll cover data preparation with Minneapolis open data, generating PMTiles vector tile archives, acquiring OpenStreetMap basemaps, and styling with MapLibre in the browser. We'll also explain how to deploy this with only S3 object storage - no servers required - and compare trade-offs with other mapping solutions.\n\nThis sesion is good for: Those familiar with JavaScript, Python and front-end development. Laptops will be provided.",
@@ -1094,6 +1182,22 @@
               "url": "https://r2-public.protomaps.com/NICAR25.pdf"
             }
           ]
+        },
+        {
+          "session_title": "Lightning Talks ⚡️",
+          "speakers": "Rashika Jaipuriar, IRE & NICAR",
+          "description": "Sometimes you don't need 45 minutes to explain a useful technique or interesting resource. Join your colleagues for a session of short (5-minute) talks about doing data journalism, web development and related topics. A cash bar will be open during the show!",
+          "datetime": "2025-03-07T23:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-3036.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "2024 Philip Meyer Awards presentation",
+          "speakers": "",
+          "description": "",
+          "datetime": "2025-03-08T00:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250307-3035.mp3",
+          "tipsheets": []
         }
       ]
     },
@@ -1105,7 +1209,7 @@
           "speakers": "Pooja Dantewadia, Realtor.com; Tyler Dukes, McClatchy Media; Cynthia Tu, Sahan Journal",
           "description": "A review of tools and shortcuts that can help you with documents, data, organizing your work, etc., such as PDF converters, DocumentCloud, Wayback Machine, Pinpoint, Tabula, OpenRefine.",
           "datetime": "2025-03-08T15:00:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2076.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1205,6 +1309,14 @@
           ]
         },
         {
+          "session_title": "Behind the story: 2024 Philip Meyer winners",
+          "speakers": "Eric Fan, Bloomberg News; Alexia Fernandez Campbell, Bloomberg Industry Group; Brant Houston, University of Illinois; Pratheek Rebala, ProPublica",
+          "description": "A data deep dive into the 2024 Philip Meyer Award winners. Hear from reporters on how they gathered, cleaned, analyzed and visualized the data behind some of the year's biggest stories.",
+          "datetime": "2025-03-08T16:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2058.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Climate change has changed natural disasters; we must change how we prepare",
           "speakers": "Adiel Kaplan, Columbia Journalism School; Chris Keller, The Associated Press; Teghan Simonton, Tampa Bay Times; M.K. Wildeman, Associated Press",
           "description": "Wildfires and hurricanes. Excessive heat and bitter cold. Extreme weather events have become stronger, more prevalent, and more unpredictable thanks to human-caused climate change.\n \nWhile these events provide an opportunity to capture an audience's attention and explain the connection between extreme weather and climate change it isn’t always apparent how we can — whether we should — do that.\n\nThis moderated panel will combine firsthand insights from those covering extreme weather events with breaking news threat modeling to develop a framework for the age of human-caused climate change that emphasizes the \"So What\" and \"Here's Why This Matters\" of the unfolding story.",
@@ -1266,6 +1378,14 @@
           "description": "Never filed a public records request yet? No worries! Bring your request ideas and get help from public records experts as you file your first request. At the end of the session, you’ll have a submitted a public records request to the agency of your choice and leave with tips that can help you file even more requests.",
           "datetime": "2025-03-08T16:15:00.000Z",
           "audio_recording_link": "https://resources.ire.org/audio/20250308-1109.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Beginner track: Writing with numbers",
+          "speakers": "Jaimi Dowdell, Reuters; Jennifer LaFleur, UC Berkeley",
+          "description": "Going from data to story: Best practices for writing about your data findings, reporting on other's surveys and studies and how to avoid common problems.",
+          "datetime": "2025-03-08T17:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2074.mp3",
           "tipsheets": []
         },
         {
@@ -1355,6 +1475,22 @@
           ]
         },
         {
+          "session_title": "Beginner track: Easy visualizations for your first data stories",
+          "speakers": "Adriana Aguilar, ABC OTV Data Team; Brent Jones, NPR; Grace Manthey, CBS News & Stations; CJ Sinner, The Minnesota Star Tribune",
+          "description": "Best practices for thinking about simple data visualizations to help tell your story and a peek at some free tools.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2077.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Covering agriculture & our food supply with data",
+          "speakers": "Mónica Cordero Sancho, Investigate Midwest ; Leah Douglas, Reuters; John McCracken, Investigate Midwest; Gavin Off, The Charlotte Observer",
+          "description": "During this session, panelists will share their experiences and tips for reporting on agricultural issues and data-driven food supply chains. Attendees will learn about relevant agricultural and environmental databases that will allow them to explore the intersections between food production, climate change, and economic factors.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2067.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "First LLM Classifier: Practical AI in the newsroom *pre-registered attendees only",
           "speakers": "Ben Welsh, Reuters; Derek Willis, University of Maryland",
           "description": "Learn how journalists use large-language models to organize and analyze massive datasets.\n\nTake this three-hour class to get hands-on experience creating a machine-learning model that can classify the text recorded in campaign contributions, crime reports, legislative bills, consumer complaints and other newsworthy data.\n\nYou will learn how to:\n* Replace a complex machine-learning system with a simple LLM system\n* Write a prompt that classifies text into predefined categories\n* Evaluate your results using a rigorous, scientific approach\n* Improve your prompt by training it with rules and examples\n\nBy the end, you will understand how the new class of LLM classifiers can outperform traditional machine-learning methods with significantly less code, and you will be ready to write one yourself.\n\nAnyone who has dabbled with code and AI is qualified for this class. A curious mind and good attitude are all that’s required.\n\nPreregistration is required and seating is limited. Laptops will be provided.",
@@ -1385,7 +1521,7 @@
           "speakers": "Lakeidra Chavis, The Marshall Project; Jeff Hargarten, Star Tribune; Matt Kiefer, Medill | Northwestern; Jennifer Lu, APM Reports",
           "description": "From challenging police narratives to tracking police violence and tallying inflating police budgets, data has played a crucial role in holding police agencies accountable across the country. Come to this session to learn how to equip your reporting with crucial data that will help inform and improve your public safety journalism in your own communities.",
           "datetime": "2025-03-08T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2089.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1398,7 +1534,7 @@
           "speakers": "Marisa Kwiatkowski, Knight Foundation; Ryan Martin, Mirror Indy; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy",
           "description": "Too often journalists are stonewalled when seeking public records that show how the government is operating at the national, state and local levels. This session will cover strategies to find success with the Freedom of Information Act and state public records laws, including how to get agencies to respond to your requests more quickly, steps you can take to overcome agencies' resistance and where you can find resources to help you appeal denials.",
           "datetime": "2025-03-08T20:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2088.mp3",
           "tipsheets": [
             {
               "label": "Tipsheet",
@@ -1457,7 +1593,7 @@
           "speakers": "Alexia Fernandez Campbell, Bloomberg Industry Group; Curtis Gilbert, APM Reports; Kate Howard, Reveal; Emily Zentner, The California Newsroom",
           "description": "How do you turn a mountain of data and complex investigative findings into audio storytelling that captivates audiences? This panel explores the art of weaving complex data into character-rich, narrative storytelling in audio form. Whether it’s a podcast or a radio feature, this panel will give you advice on how to make your stories resonate to the ear.",
           "datetime": "2025-03-08T22:45:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250308-2079.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1548,6 +1684,14 @@
       "day": "Sunday",
       "data": [
         {
+          "session_title": "Beginner track: Taking it all home",
+          "speakers": "Greta Kaul, Minnesota Star Tribune; John Kelly, CBS News; Liz Lucas, University of Missouri School of Journalism",
+          "description": "You've picked up some new skills, filled your brain with inspiration and your notebook with ideas, but now what? We'll give you some tips on how to take advantage of what you've learned, avoid letting your skills get rusty and even continue learning when you get back to your job. Bring your questions, too! We'll have lots of time for that.",
+          "datetime": "2025-03-09T14:00:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-2078.mp3",
+          "tipsheets": []
+        },
+        {
           "session_title": "Election data to use after the election",
           "speakers": "Derek Willis, University of Maryland",
           "description": "For many news organizations, election data analysis ends on election night or soon after. But there are multiple types of election data produced in the weeks and months after the election ends, including cast vote records and voter history files. This session will demonstrate uses of them and ways that you can incorporate them into other types of reporting.",
@@ -1578,7 +1722,7 @@
           "speakers": "Kelly Dietz, KARE11; A.J. Lagoe, KARE-TV",
           "description": "Go behind the story with members of the team whose multi-year investigation into the business of addiction treatment has sparked reform laws, DOJ kickback and money laundering investigations, FBI raids, and fraud conspiracy indictments.",
           "datetime": "2025-03-09T15:15:00.000Z",
-          "audio_recording_link": "",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-2081.mp3",
           "tipsheets": [
             {
               "label": "Slides",
@@ -1661,6 +1805,14 @@
           "description": "Journalism is an ever-changing, ever-evolving industry and that goes doubly these days. Come to this session for discussion about what it means to be a journalist, how to carve out a path for yourself in the industry, and how to handle the trials and tribulations that come with this work.",
           "datetime": "2025-03-09T16:30:00.000Z",
           "audio_recording_link": "https://resources.ire.org/audio/20250309-1163.mp3",
+          "tipsheets": []
+        },
+        {
+          "session_title": "Quick-hit investigations",
+          "speakers": "Adam Rhodes & Francisco Vara-Orta, IRE & NICAR",
+          "description": "Learn strategies, story ideas, resources and tips for watchdog stories on a variety of beats. You'll get tips on how to produce meaty enterprise stories that take days or weeks rather than months.",
+          "datetime": "2025-03-09T16:30:00.000Z",
+          "audio_recording_link": "https://resources.ire.org/audio/20250309-3044.mp3",
           "tipsheets": []
         },
         {
