@@ -1,6 +1,6 @@
 {
-  "total": 146,
-  "updated": "March 21",
+  "total": 147,
+  "updated": "March 26",
   "sessions": [
     {
       "day": "Thursday",
@@ -422,7 +422,7 @@
           "tipsheets": [
             {
               "label": "Slides",
-              "url": "https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p"
+              "url": "https://docs.google.com/presentation/d/1snA0oHf_9ZJZQfp3bn6CDT16mjr9MdeNYRwYnRc0VCc/edit#slide=id.p"
             }
           ]
         },
@@ -1481,6 +1481,19 @@
           "datetime": "2025-03-08T20:15:00.000Z",
           "audio_recording_link": "https://resources.ire.org/audio/20250308-2077.mp3",
           "tipsheets": []
+        },
+        {
+          "session_title": "Beyond the press release: Uncovering corporate behavior",
+          "speakers": "Arlene Martinez & Siobhan Standaert, Good Jobs First",
+          "description": "What companies say and how companies behave is often vastly different. Violation Tracker is a database that tracks the behavior of companies across 450 regulatory agencies - including OSHA, EPA, Department of Labor, and state and local attorneys general offices. In all, it has 655,000 records totaling over $1 trillion in fines, fees and settlements. In this session, participants can learn how to get the most out of the database, including making industry comparisons, connecting parent companies through subsidiaries and other tips for digging into companies. Because many companies also receive significant government assistance via economic development subsidies, we'll also tour Subsidy Tracker, a database which allows users the ability to search which companies have received taxpayer subsidies. We'll also demonstrate our newest database, Violation Tracker Global, which tracks the behavior of the biggest companies across 45 countries. Plus, learn about SEC filings, corporate structures, and the key relationships that keep a company going. Cover how companies actually behave - not how they say they do.\nThis session is good for journalists with an interest in regulatory agency data.\nLaptops will be provided.",
+          "datetime": "2025-03-08T20:15:00.000Z",
+          "audio_recording_link": "",
+          "tipsheets": [
+            {
+              "label": "Slides",
+              "url": "https://resources.ire.org/tipsheets/20250308-30480.pdf"
+            }
+          ]
         },
         {
           "session_title": "Covering agriculture & our food supply with data",
